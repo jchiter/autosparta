@@ -1,0 +1,734 @@
+body.color-red .color,
+body.color-red a.color,
+body.color-red a.color:hover,
+body.color-red a.color:focus {
+  color: #ec3542 !important;
+}
+body.color-red svg path.color {
+  fill: #ec3542 !important;
+}
+body.color-red .divider-line {
+  border-color: #ec3542;
+}
+body.color-red .quote:before {
+  color: #ec3542;
+}
+body.color-red .quote-simple {
+  border-left: 4px solid #ec3542;
+}
+body.color-red .marker-list > li:after,
+body.color-red .marker-list-sm > li:after,
+body.color-red .marker-list-arrow > li:after {
+  color: #ec3542;
+}
+body.color-red ul.category-list li:after {
+  color: #ec3542;
+}
+body.color-red .number-list > li:before {
+  color: #ec3542;
+}
+body.color-red .contact-info > .icon {
+  color: #ec3542;
+}
+body.color-red .loader-circle-2 {
+  border-right-color: #ec3542;
+}
+body.color-red .loader .line:nth-child(6) {
+  background: #ec3542;
+}
+body.color-red .loader .subline:nth-child(11) {
+  background: #ec3542;
+}
+body.color-red .loader .needle:before {
+  border-color: transparent #ec3542 transparent transparent;
+}
+body.color-red .input-custom:hover,
+body.color-red .input-custom:focus,
+body.color-red .input-custom.focus {
+  border-color: #ec3542;
+}
+body.color-red .textarea-custom:hover,
+body.color-red .textarea-custom:focus,
+body.color-red .textarea-custom.focus {
+  border-color: #ec3542;
+}
+body.color-red .btn:not([data-action]):before, 
+body.color-red .btn:not([data-action]):after {
+  background-color: #ec3542;
+}
+body.color-red .btn:not([data-action]).btn-border {
+  border: 2px solid #ec3542;
+}
+body.color-red .social-links ul li a {
+  color: #ec3542;
+}
+body.color-red .link a {
+  color: #ec3542;
+}
+body.color-red .back-to-top a,
+body.color-red .tag:hover {
+  background-color: #ec3542 !important;
+}
+body.color-red .tags-list li a:hover {
+  background-color: #ec3542;
+}
+body.color-red .calendar__footer a:hover {
+  color: #ec3542;
+}
+body.color-red .calendar .selected,
+body.color-red .calendar .selected:hover {
+  background-color: #ec3542;
+}
+body.color-red .nav-tabs > li > a::after {
+  background: #ec3542;
+}
+body.color-red .tab-nav > li > a::after {
+  background: #ec3542 none repeat scroll 0% 0%;
+}
+body.color-red header .header-right .address span {
+  color: #ec3542;
+}
+body.color-red header .header-phone .phone-number .code {
+  color: #ec3542;
+}
+body.color-red header .header-cart:hover a.icon,
+body.color-red header .header-cart.opened a.icon {
+  color: #ec3542;
+}
+body.color-red header .header-cart .badge {
+  background-color: #ec3542;
+}
+body.color-red header .header-cart:hover a.icon,
+body.color-red header .header-cart.opened a.icon {
+  color: #ec3542;
+}
+body.color-red header.page-header .appointment, 
+body.color-red .modal-header .appointment{
+  background-color: #ec3542;
+}
+body.color-red header.page-header .appointment:after, 
+body.color-red .modal-header .appointment:after {
+  border-color: transparent #ec3542 transparent transparent;
+}
+@media (min-width: 992px) {
+  body.color-red .navbar-nav > li > a:after {
+    background-color: #ec3542;
+  }
+}
+@media (max-width: 991px) {
+  body.color-red header.page-header .navbar-toggle {
+    color: #ec3542;
+  }
+}
+body.color-red .search-container:hover .button {
+  background-color: #ec3542;
+}
+@media (max-width: 991px) {
+  body.color-red .search-container .button {
+    background-color: #ec3542;
+  }
+}
+@media (max-width: 991px) {
+  body.color-red #slide-nav #slidemenu .close-menu {
+    color: #ec3542;
+  }
+}
+body.color-red .page-footer .social-links ul li a {
+  color: #ec3542;
+}
+body.color-red .page-footer .footer-phone .number {
+  color: #ec3542;
+}
+body.color-red .page-footer .contact-info .icon {
+  color: #ec3542;
+}
+body.color-red #mainSlider .slide-content h3 {
+  color: #ec3542;
+}
+body.color-red #mainSlider .slide-content .btn:hover,
+body.color-red #mainSlider .slide-content .btn.active,
+body.color-red #mainSlider .slide-content .btn:active,
+body.color-red #mainSlider .slide-content .btn.focus,
+body.color-red #mainSlider .slide-content .btn:focus {
+  color: #ec3542;
+}
+body.color-red #mainSlider .slick-prev:hover:before,
+body.color-red #mainSlider .slick-next:hover:before {
+  color: #ec3542 !important;
+}
+body.color-red .breadcrumbs .breadcrumb a:hover {
+  color: #ec3542;
+}
+body.color-red .text-icon .icon-wrapper > span {
+  background: #ec3542;
+}
+body.color-red .text-icon-hor .icon-wrapper span i.icon {
+  color: #ec3542;
+}
+body.color-red .text-icon-hor .icon-wrapper .icon-hover {
+  background-color: #ec3542;
+}
+body.color-red .text-icon-hor .price {
+  color: #ec3542;
+}
+body.color-red .testimonials-item {
+  background-color: #ec3542;
+}
+body.color-red .testimonials-item .inside .rating {
+  color: #ec3542;
+}
+body.color-red .testimonials-single .username {
+  color: #ec3542;
+}
+body.color-red .faq-item .panel-heading .panel-title {
+  border-top: 1px solid #ec3542;
+}
+body.color-red .faq-item .panel-heading .panel-title > a:hover {
+  color: #ec3542;
+}
+body.color-red .faq-item .panel-heading a > span.caret-toggle {
+  background-color: #ec3542;
+}
+body.color-red .blog-post .post-image .post-link:hover {
+  color: #ec3542;
+}
+body.color-red .blog-post .post-meta li i.icon {
+  color: #ec3542 !important;
+}
+body.color-red .post-preview .post-title a:hover {
+  color: #ec3542;
+}
+body.color-red .comments .comment .text .date i.icon {
+  color: #ec3542;
+}
+body.color-red #appointmentForm.modal .modal-dialog .modal-header .close {
+  color: #ec3542 !important;
+}
+body.color-red .services-block .image,
+body.color-red .services-block-alt .image i {
+  background-color: #ec3542;
+  -webkit-box-shadow: 0 0 0 20px #ec3542;
+  -moz-box-shadow: 0 0 0 20px #ec3542;
+  box-shadow: 0 0 0 20px #ec3542;
+}
+body.color-red .services-block-alt .image:hover i {
+  -webkit-box-shadow: 0 0 0 0 #ec3542;
+  -moz-box-shadow: 0 0 0 0 #ec3542;
+  box-shadow: 0 0 0 0 #ec3542;
+}
+body.color-red .services-block .service.dark h2,
+body.color-red .services-block .service.dark h3,
+body.color-red .services-block .service.dark h4 {
+  color: #ec3542;
+}
+body.color-red .services-block-alt .caption .title {
+  color: #ec3542;
+}
+body.color-red .services-block-alt .services-link {
+  color: #ec3542;
+}
+body.color-red .vertical-tab-menu .list-group > a i.icon {
+  color: #ec3542;
+}
+body.color-red .promo-banner {
+  border: 2px dotted #ec3542;
+}
+body.color-red .promo-banner .icon-lg {
+  color: #ec3542;
+}
+body.color-red .how-works-block .caption > .inside .number span {
+  background-color: #ec3542;
+}
+body.color-red .stat-box .icon {
+  color: #ec3542;
+}
+body.color-red .filters-by-category ul li a:hover,
+body.color-red .filters-by-category ul li a.selected {
+  color: #ec3542 !important;
+}
+@media (min-width: 768px) {
+  body.color-red .image-scale-color:after {
+    background: #ec3542;
+  }
+}
+body.color-red .slick-prev:hover:before,
+body.color-red .slick-next:hover:before {
+  color: #ec3542 !important;
+}
+body.color-red .slick-dots li.slick-active button,
+body.color-red .slick-dots li.slick-active button:hover {
+  background: #ec3542;
+}
+body.color-red .coupon-text5 {
+  color: #ec3542;
+}
+body.color-red .coupon .coupon-all {
+  background-color: #ec3542;
+}
+body.color-red .coupon .coupon-all:after {
+  border-color: #ec3542 transparent transparent transparent;
+}
+body.color-red .coupon-print-inside {
+  border-color: #ec3542;
+}
+body.color-red .service-icon .icon-wrapper span {
+  background: #ec3542;
+}
+body.color-red .text-icon-sm .icon-wrapper > span {
+  background: #ec3542;
+}
+body.color-red .text-icon-sm .icon-wrapper .icon-hover {
+  background-color: #ec3542;
+}
+body.color-red .table .cell-marker {
+  background: #ec3542;
+  border-color: #ec3542;
+}
+body.color-red .pagination > li > a:hover,
+body.color-red .pagination > li > span:hover {
+  background-color: #ec3542;
+  border-color: #ec3542;
+}
+body.color-red .pagination > .active > a,
+body.color-red .pagination > .active > span,
+body.color-red .pagination > .active > a:hover,
+body.color-red .pagination > .active > span:hover {
+  background-color: #ec3542;
+  border-color: #ec3542;
+}
+body.color-red .testimonial-card:after {
+  color: #ec3542;
+}
+body.color-red .column-filters {
+  margin-bottom: 35px;
+}
+body.color-red .column-filters-inside {
+  border: 3px solid #f5f5f5;
+}
+body.color-red .column-filters .side-block {
+  border-color: #ebebeb;
+  padding: 20px;
+  margin-bottom: 0;
+}
+body.color-red .column-filters .side-block h3 {
+  margin-bottom: 25px;
+}
+body.color-red .column-filters .category-list {
+  margin-top: 20px;
+}
+body.color-red .noUi-horizontal .noUi-handle {
+  background: #ec3542;
+}
+body.color-red .noUi-connect {
+  background: #ec3542;
+}
+body.color-red .simple-pagination a.active {
+  color: #ec3542;
+}
+body.color-red .nav-tabs > li > a::after {
+  background: #ec3542;
+}
+body.color-red .tab-nav > li > a::after {
+  background: #ec3542 none repeat scroll 0% 0%;
+}
+body.color-red .rating i,
+body.color-red blockquote::before {
+  color: #ec3542;
+}
+body.color-red .services-block .image, 
+body.color-red .services-angle-text .number, 
+body.color-red .text-icon .icon-wrapper > span,  
+body.color-red .testimonials-item, td#today,
+body.color-red .service-icon .icon-wrapper span, 
+body.color-red .services-block-alt .image i, 
+body.color-red .image-scale-color:after, 
+body.color-red .text-icon-sm .icon-wrapper > span, 
+body.color-red .woocommerce .search-container button.button:hover, 
+body.color-red .calendar_wrap td#today {
+    background-color: #ec3542!important;
+}
+body.color-red .icon-star:before{
+  color: #ec3542;
+}
+body.color-red .btn-lg.btn-invert.view-more-testimonial{
+  background-color: #ec3542 !important;
+}
+body.color-red .tagcloud a:hover{
+  background-color: #ec3542 !important;
+}
+body.color-red .reply a {
+    color: #ec3542!important;
+}
+body.color-red .textarea-custom:hover, 
+body.color-red .textarea-custom:focus, 
+body.color-red .input-custom:hover, 
+body.color-red .input-custom.focus, 
+body.color-red .wpcf7-form-control.wpcf7-textarea:focus {
+    border-color: #ec3542 !important;
+}
+body.color-red .vc_toggle, 
+body.color-red .divider-line {
+    border-top: 1px solid #ec3542;
+}
+body.color-red .car-faq-text .vc_toggle_title:hover h4 {
+    color: #ec3542;
+}
+body.color-red.woocommerce .star-rating span::before {
+    color: #ec3542 !important;
+}
+body.color-red.woocommerce .widget_price_filter .ui-slider .ui-slider-range {
+    background-color: #ec3542;
+}
+body.color-red.woocommerce .widget_price_filter .ui-slider .ui-slider-handle {
+    background-color: #ec3542;
+}
+body.color-red.woocommerce span.onsale, 
+body.color-red header .header-cart .badge{
+      background: #ec3542!important;
+}
+body.color-red.woocommerce .filters-row .page-numbers .current {
+    background-color: transparent !important;
+    color: #ec3542;
+}
+body.color-red.woocommerce-page .btn, 
+body.color-red.woocommerce-page .btn.btn-lg {
+    background-color: #ec3542 !important;
+}
+body.color-red.woocommerce-page .tabs.wc-tabs li.active a {
+    color: #ec3542 !important;
+}
+body.color-red.woocommerce-page .wc-tabs > li > a::after {
+    background: #ec3542 none repeat scroll 0 0;
+}
+body.color-red.woocommerce p.stars a {
+    color: #ec3542 !important;
+}
+body.color-red header .header-cart:hover a.icon, 
+body.color-red header .header-cart.opened a.icon {
+    color: #ec3542!important;
+}
+body.color-red .blog-post a.more-link:before,
+body.color-red .blog-post a.more-link:after,
+body.color-red .modal-body .btn::before,
+body.color-red .modal-body .btn::after,
+body.color-red .header-cart .btn::before,
+body.color-red .header-cart .btn::after,
+body.color-red .slider-under-bttn .btn::before, 
+body.color-red .slider-under-bttn .btn::after{
+  background-color: #ec3542 !important;
+}
+
+
+
+body.color-red header.page-header-2 .header-topline [class*='icon'] {
+  color: #ec3542;
+}
+body.color-red header.page-header-2 a.appointment {
+  background-color: #ec3542;
+}
+body.color-red header.page-header-2 a.appointment:after {
+  border-color: transparent #ec3542 transparent transparent;
+}
+@media (min-width: 992px){
+  body.color-red header.page-header-2 .navbar-nav > li.current-menu-item > a:after, 
+  body.color-red header.page-header-2 .navbar-nav > li:hover > a:after {
+      background-color: #ec3542;
+  }
+}
+body.color-red header.page-header-2 .search-container:hover .button {
+  background-color: #ec3542 !important;
+}
+body.color-red #mainSlider .banner-btn, 
+body.color-red #mainSlider .banner-btn:focus{
+  border: 2px solid #ec3542;
+}
+body.layout-2.color-red h1:after, 
+body.layout-2.color-red h2.h-lg:after{
+  background-color: #ec3542;
+}
+body.color-red .services-tabs .services-tabs-icons > span.active {
+  background-color: #ec3542;
+}
+body.color-red .services-tabs .services-tab-info:after {
+  color: #ec3542;
+}
+body.color-red .icons-tabs .nav-tabs > li.active > a [class*='icon-'], 
+body.color-red .icons-tabs .nav-tabs > li > a:hover [class*='icon-'] {
+  color: #ec3542;
+}
+body.color-red .marker-list-sm-1 > li:after {
+  color: #ec3542;
+}
+body.color-red .text-icon-hor2 .icon-wrapper2 {
+  color: #ec3542;
+}
+body.color-red .how-works-number {
+  color: #ec3542;
+}
+body.color-red .banner-free .banner-text-1 {
+  background-color: #ec3542;
+}
+body.color-red .banner-free .banner-text-1:after {
+  border-color: #ec3542 transparent transparent transparent;
+}
+body.color-red .faq-item-sm.panel .panel-heading a:not(.collapsed) > span.closed {
+  background-color: #ec3542;
+}
+body.color-red .banner-service .banner-text-3 i.icon {
+  color: #ec3542;
+}
+body.color-red .pricing-box-header{
+  background-color: #ec3542;
+}
+body.color-red .pricing-box-footer .mark-icon {
+  color: #ec3542;
+}
+body.color-red #appointmentForm.modalform-sm .wpcf7-submit.btn {
+  border-color: #ec3542;
+}
+
+
+@media (min-width: 992px){
+  body.color-red header.page-header-2 .navbar-nav .dropdown-menu {
+      border-bottom-color: #ec3542;
+  }
+}
+body.color-red .estimator-panel .col-title [class*='icon'] {
+  color: #ec3542;
+}
+@media (max-width: 767px){
+  body.color-red .estimator-panel .panel-toggle {
+    color: #ec3542;
+  }
+}
+body.color-red .service-grid-item:hover .service-grid-item-title {
+  background-color: #ec3542;
+}
+body.color-red .service-grid-item-title:after {
+  border-color: transparent transparent #ec3542 transparent;
+}
+body.layout-3.color-red .banner-free .banner-text-1 {
+  color: #ec3542;
+  background-color: #f6f6f6;
+}
+body.layout-3.color-red .banner-free .banner-text-1:after {
+  border-top-color: #f6f6f6;
+}
+body.layout-3.color-red .banner-service .col-left [class*='icon-']:before {
+  color: #ec3542;
+}
+body.layout-3.color-red .how-works-number {
+  color: #b8b8b8;
+}
+@media (min-width: 992px){
+  body.color-red header.page-header-2 .navbar-nav > li > a:after {
+    background-color: transparent;
+}
+}
+@media (min-width: 992px){
+  body.color-red header.page-header-2 .navbar-nav > li a, 
+  body.color-red header.page-header-2 .navbar-nav > li:hover a {
+      background-color: transparent;
+  }
+}
+body.color-red .bootstrap-datetimepicker-widget table td.active, 
+body.color-red .bootstrap-datetimepicker-widget table td.active:hover {
+  background-color: #ec3542 !important;
+}
+body.color-red .column-right .widget_search button:hover {
+  background-color: #ec3542 !important;
+}
+body.color-red input[type="submit"]:hover {
+  background: #ec3542 !important;
+}
+body.color-red .wpcf7-form-control.wpcf7-textarea:hover {
+  border-color: #ec3542 !important;
+}
+body.color-red header.page-header-2 .search-container .button {
+  background: transparent;
+}
+
+
+
+
+body.color-red .promo-01 .promo-01__title .text-02 {
+  color: #ec3542;
+}
+body.color-red .box01 .box01__icon:before {
+  background-color: #ec3542;
+}
+body.color-red .block-title .title-separator {
+  background-color: #ec3542;
+}
+body.color-red .block-title .title-separator:before, 
+body.color-red .block-title .title-separator:after {
+  background-color: #ec3542;
+}
+body.color-red .promo01 .promo01-header {
+  background-color: #ec3542;
+}
+body.color-red .promo01 .promo01-header .text-02 {
+  color: #292929;
+}
+body.color-red .promo01 .promo01-content .text-02 {
+  color: #ec3542;
+}
+body.color-red .promo02 .promo02__marker {
+  color: #ec3542;
+}
+body.color-red .text-icon:before {
+  background-color: #ec3542;
+}
+body.color-red .section-blog .item .item__img .icon {
+  background-color: #ec3542;
+}
+body.color-red .stat-box02 .stat-box02__value {
+  color: #ec3542;
+}
+body.color-red .stat-box02 .stat-box02__value:before {
+  background-color: #ec3542;
+}
+body.color-red .video-block .video-block__icon span {
+  background-color: #ec3542;
+}
+body.color-red .services-block-alt:before {
+  background-color: #ec3542;
+}
+body.color-red .nav-pills > li.active > a {
+  color: #ec3542 !important;
+}
+body.color-red .nav-pills > li > .current, 
+body.color-red .nav-pills > li > a:hover {
+  color: #ec3542;
+}
+body.color-red .services-title .title-separator {
+  background-color: #ec3542;
+}
+body.color-red .services-title .title-separator:before, 
+body.color-red .services-title .title-separator:after {
+  background-color: #ec3542;
+}
+body.color-red .services-box .services-box__icon {
+  color: #ec3542;
+}
+body.color-red .card01 .card01__social-icon li a:hover {
+  background-color: #ec3542;
+}
+body.color-red .card01 .card01__wrapper:before {
+  background-color: #ec3542;
+}
+body.color-red .card01 .card01__title a:hover {
+  color: #ec3542;
+}
+body.color-red .nav-aside ul li a:before {
+  background-color: #ec3542;
+}
+body.color-red .address-info .address-info__icon {
+  color: #ec3542;
+}
+body.color-red .blog-post .post-meta li.author .author__text {
+  color: #ec3542;
+}
+body.color-red .nav-pills > li > a:hover .icon {
+  color: #ec3542;
+}
+body.color-red .blockquote-01 {
+  border-left-color: #ec3542;
+}
+body.color-red .blockquote-01 footer cite {
+  color: #ec3542;
+}
+body.color-red .tags-list a:hover {
+  background-color: #ec3542;
+}
+body.color-red .social-box .social-box__list ul li a:hover {
+  color: #ec3542;
+}
+body.color-red .nav-post-btn .nav-post__tag {
+  color: #ec3542;
+}
+body.color-red .nav-post-btn .nav-post__tag:before {
+  background-color: #ec3542;
+}
+body.color-red .box-info {
+  border: 3px solid #ec3542;
+}
+body.color-red .social-icon li a:hover {
+  color: #ec3542;
+}
+body.color-red .comments .comment .text .meta b {
+  color: #ec3542;
+}
+body.color-red .comments .comment .text .meta a:hover {
+  border-color: #ec3542;
+  color: #ec3542;
+}
+body.color-red .filters-by-category ul li a:after {
+  background-color: #ec3542;
+}
+body.color-red .gallery-item .hover .view:before {
+  border-bottom: 113px solid #ec3542;
+}
+body.color-red .twentytwenty-handle {
+  background-color: #ec3542;
+}
+body.color-red .faq-accordion .faq__title:before {
+  background-color: #ec3542;
+}
+body.color-red.woocommerce nav.woocommerce-pagination ul li a:focus, 
+body.color-red.woocommerce nav.woocommerce-pagination ul li a:hover, 
+body.color-red.woocommerce nav.woocommerce-pagination ul li span.current {
+  color: #ec3542 !important;
+}
+body.color-red .breadcrumbs span {
+  color: #ec3542;
+}
+body.color-red .info02 .info02__icon {
+  color: #ec3542;
+}
+body.color-red .services-tabs .services-tabs-nav > li a:before {
+  background-color: #ec3542;
+}
+body.color-red .box-custom01 .box-custom01__icon .icon {
+  color: #ec3542;
+}
+body.color-red .video-wrapper .video-block__icon span {
+  background-color: #ec3542;
+}
+body.color-red .start-box02 .start-box02__text {
+  border-color: #ec3542;
+}
+body.color-red .base-color {
+  color: #ec3542;
+}
+body.color-red .pt-slick-button .slick-arrow:hover {
+  color: #ec3542;
+}
+body.color-red .newsbox .newsbox__data .icon-marker {
+  background-color : #ec3542;
+}
+body.color-red .pricing-box02.slick-center .pricing-box02__price, 
+body.color-red .pricing-box02.item-active .pricing-box02__price {
+  color: #ec3542;
+}
+body.color-red .pricing-box02:before {
+  background-color: #ec3542;
+}
+body.color-red .btn-add {
+  color: #ec3542;
+}
+@media (max-width: 767px){
+  body.color-red .start-box02 .start-box02__number {
+      color: #ec3542;
+  }
+}
+@media (max-width: 991px){
+  body.color-red .box01 .box01__content .box01__title:before {
+      background-color: #ec3542;
+  }
+}
+body.color-red .block.bg-1 .btn-add, 
+body.color-red .block.bg-2 .btn-add, 
+body.color-red .block.bg-3 .btn-add {
+  color: #ec3542;
+}
