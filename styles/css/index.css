@@ -99,7 +99,7 @@ body {
 }
 
 header .header-row {
-    background: rgba(0, 0, 0, 0) url("https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2020/03/grey-bg.png") repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("../images/grey-bg-lg.png") repeat scroll 0 0;
 }
 
 /*--------   2.2 Header          --------*/
@@ -109,12 +109,12 @@ body.home header.page-header {
 }
 
 body:not(.home) {
-    background: url(https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2020/03/header-photo-bg.jpg) no-repeat center 0;
+    background: url("../images/header-photo-bg.jpg") no-repeat center 0;
 }
 
 @media (max-width: 991px) {
     #pageTitle {
-        background: url(https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2020/03/header-photo-bg.jpg) repeat 0;
+        background: url("../images/header-photo-bg.jpg") repeat 0;
         background-size: cover;
     }
 }
@@ -167,15 +167,15 @@ a:hover, h1 a:hover, h2 a:hover, .column-right .side-block ul li a:hover {
 
 /*heading*/
 .loader-circle-2 {
-    border-right-color: #ffc513;
+    border-right-color: #ec3542;
 }
 
 .loader .line:nth-child(6), .loader .subline:nth-child(11) {
-    background: #ffc513;
+    background: #ec3542;
 }
 
 .loader .needle:before {
-    border-color: transparent #ffc513 transparent transparent;
+    border-color: transparent #ec3542 transparent transparent;
 }
 
 h1, h2.h-lg, .modal-header a:hover {
@@ -188,19 +188,19 @@ h1, h2.h-lg, .modal-header a:hover {
 }
 
 .side-block {
-    border-bottom: 1px solid #ffc513;
+    border-bottom: 1px solid #ec3542;
 }
 
 .vc_toggle, .divider-line {
-    border-top: 1px solid #ffc513;
+    border-top: 1px solid #ec3542;
 }
 
 .promo-banner {
-    border: 2px dotted #ffc513;
+    border: 2px dotted #ec3542;
 }
 
 .quote-simple {
-    border-left: 4px solid #ffc513;
+    border-left: 4px solid #ec3542;
 }
 
 .color, a.color, a.color:hover, a.color:focus,
@@ -254,27 +254,27 @@ h1 b, h2 b, h3 b, h3 b {
 .service-icon .icon-wrapper .fack_icon_div, .services-block-alt .image .fack_icon_div,
 body .search-container:hover .button,
 .calendar_wrap td#today {
-    background-color: #ffc513 !important;
+    background-color: #ec3542 !important;
 }
 
 header .heade-mobile .search-container .button:hover {
-    color: #ffc513;
+    color: #ec3542;
 }
 
 body .services-block-alt .image i, .services-block-alt .image .fack_icon_div {
-    -webkit-box-shadow: 0 0 0 20px #ffc513;
-    -moz-box-shadow: 0 0 0 20px #ffc513;
-    box-shadow: 0 0 0 20px #ffc513;
+    -webkit-box-shadow: 0 0 0 20px #ec3542;
+    -moz-box-shadow: 0 0 0 20px #ec3542;
+    box-shadow: 0 0 0 20px #ec3542;
 }
 
 .services-block-alt .image:hover i, .services-block-alt .image:hover .fack_icon_div {
-    -webkit-box-shadow: 0 0 0 0px #ffc513;
-    -moz-box-shadow: 0 0 0 0px #ffc513;
-    box-shadow: 0 0 0 0px #ffc513;
+    -webkit-box-shadow: 0 0 0 0px #ec3542;
+    -moz-box-shadow: 0 0 0 0px #ec3542;
+    box-shadow: 0 0 0 0px #ec3542;
 }
 
 header.page-header .appointment, header.page-header .appointment:after, .modal-header .appointment:after {
-    border-color: transparent #ffc513 transparent transparent;
+    border-color: transparent #ec3542 transparent transparent;
 }
 
 .input-custom:hover,
@@ -282,11 +282,11 @@ header.page-header .appointment, header.page-header .appointment:after, .modal-h
 .input-custom.focus,
 .table .cell-marker,
 .coupon-print-inside {
-    border-color: #ffc513;
+    border-color: #ec3542;
 }
 
 header.page-header .appointment, .modal-header .appointment, .table .cell-marker {
-    background-color: #ffc513;
+    background-color: #ec3542;
 }
 
 .color, a.color, a.color:hover, a.color:focus,
@@ -296,17 +296,17 @@ header.page-header .appointment, .modal-header .appointment, .table .cell-marker
 .testimonials-item .inside .rating, .services-block-alt .caption .title,
 .testimonial-card:after, .icon-star:before,
 blockquote::before {
-    color: #ffc513;
+    color: #ec3542;
 }
 
 .page-footer .footer-phone .number {
-    color: #ffc513;
+    color: #ec3542;
 }
 
 /*Menu Color*/
 @media (min-width: 992px) {
     header.page-header-1 .navbar-nav > li > a:after {
-        background-color: #ffc513;
+        background-color: #ec3542;
         color: #000000;
     }
 }
@@ -318,7 +318,7 @@ blockquote::before {
 }
 
 #mainSlider .slide-content h3 {
-    color: #ffc513;
+    color: #ec3542;
 }
 
 #mainSlider .slick-prev:before,
@@ -346,15 +346,15 @@ blockquote::before {
 
 button#place_order,
 .btn-invert {
-    background: #ffc513;
+    background: #ec3542;
 }
 
 .btn-lg.btn-invert.view-more-testimonial {
-    background-color: #ffc513;
+    background-color: #ec3542;
 }
 
 .blog-post a.more-link:before, .blog-post a.more-link:after {
-    background-color: #ffc513 !important;
+    background-color: #ec3542 !important;
 }
 
 .btn.btn-border {
@@ -374,26 +374,26 @@ button#place_order,
 }
 
 .btn.btn-lg.btn-full.false-submit {
-    background-color: #ffc513 !important;
-    color: #ffc513 !important;
+    background-color: #ec3542 !important;
+    color: #ec3542 !important;
 }
 
 .btn.btn-lg.btn-full.false-submit:hover {
-    background-color: #ffc513 !important;
-    color: #ffc513 !important;
+    background-color: #ec3542 !important;
+    color: #ec3542 !important;
 }
 
 .btn.btn-lg.btn-full.false-submit span {
-    color: #ffc513 !important;
+    color: #ec3542 !important;
 }
 
 .btn.btn-lg.btn-full.false-submit:hover span {
-    color: #ffc513 !important;
+    color: #ec3542 !important;
 }
 
 .btn::before, .btn::after, .column-right .widget_search button:hover, input[type="submit"]:hover, .tags-list li a:hover,
 #slide-nav #slidemenu.slide-active .search-container .button, .tagcloud a:hover {
-    background: #ffc513 !important;
+    background: #ec3542 !important;
 }
 
 @media (max-width: 991px) {
@@ -429,34 +429,34 @@ button#place_order,
 }
 
 header .header-cart:hover a.icon, header .header-cart.opened a.icon {
-    color: #ffc513 !important;
+    color: #ec3542 !important;
 }
 
 .woocommerce .widget_price_filter .ui-slider .ui-slider-range {
-    background-color: #ffc513;
+    background-color: #ec3542;
 }
 
 .woocommerce .widget_price_filter .ui-slider .ui-slider-handle {
-    background-color: #ffc513;
+    background-color: #ec3542;
 }
 
 .woocommerce span.onsale, header .header-cart .badge {
-    background-color: #ffc513;
+    background-color: #ec3542;
 }
 
 .woocommerce .star-rating span::before, .woocommerce .comment-form p.stars a, .woocommerce-tabs .tabs.wc-tabs li.active a {
-    color: #ffc513 !important;
+    color: #ec3542 !important;
 }
 
 .wc-tabs > li > a::after {
-    background: #ffc513 !important;
+    background: #ec3542 !important;
 }
 
 .woocommerce-pagination .page-numbers .page-numbers.current,
 .woocommerce nav.woocommerce-pagination ul li a:focus,
 body.woocommerce nav.woocommerce-pagination ul li a:hover,
 .woocommerce nav.woocommerce-pagination ul li span.current {
-    color: #ffc513 !important;
+    color: #ec3542 !important;
 }
 
 .filters-row .page-numbers .current {
@@ -465,73 +465,73 @@ body.woocommerce nav.woocommerce-pagination ul li a:hover,
 }
 
 header.page-header-2 a.appointment:after {
-    border-color: transparent #ffc513 transparent transparent;
+    border-color: transparent #ec3542 transparent transparent;
 }
 
 header.page-header-2 a.appointment {
-    background-color: #ffc513;
+    background-color: #ec3542;
 }
 
 @media (min-width: 992px) {
     header.page-header-2 .navbar-nav > li.current-menu-item > a:after, header.page-header-2 .navbar-nav > li:hover > a:after {
-        background-color: #ffc513;
+        background-color: #ec3542;
     }
 }
 
 header.page-header-2 .search-container:hover .button {
-    background-color: #ffc513;
+    background-color: #ec3542;
 }
 
 #mainSlider .banner-btn, #mainSlider .banner-btn:focus {
-    border: 2px solid #ffc513;
+    border: 2px solid #ec3542;
 }
 
 .services-tabs .services-tabs-icons > span.active {
-    background-color: #ffc513;
+    background-color: #ec3542;
 
 }
 
 .icons-tabs .nav-tabs > li.active > a [class*='icon-'], .icons-tabs .nav-tabs > li > a:hover [class*='icon-'] {
-    color: #ffc513;
+    color: #ec3542;
 
 }
 
 .icons-tabs .nav-tabs > li > a::after {
-    background: #ffc513;
+    background: #ec3542;
 
 }
 
 .marker-list-sm-1 > li:after {
-    color: #ffc513;
+    color: #ec3542;
 
 }
 
 .how-works-number {
-    color: #ffc513;
+    color: #ec3542;
 
 }
 
 .banner-free .banner-text-1 {
-    background-color: #ffc513;
+    background-color: #ec3542;
 
 }
 
 .banner-free .banner-text-1:after {
-    border-color: #ffc513 transparent transparent transparent;
+    border-color: #ec3542 transparent transparent transparent;
 }
 
 .pricing-box-header {
-    background-color: #ffc513;
+    background-color: #ec3542;
 
 }
 
 .text-icon-hor2 .icon-wrapper2 {
-    color: #ffc513;
+    color: #ec3542;
 
 }
 
 #appointmentForm.modalform-sm .wpcf7-submit.btn {
-    border-color: #ffc513;
+    border-color: #ec3542;
 
 }
 
@@ -541,299 +541,299 @@ body .input-custom:hover,
 body .input-custom.focus,
 body .wpcf7-form-control.wpcf7-textarea:hover,
 body .wpcf7-form-control.wpcf7-textarea:focus {
-    border-color: #ffc513 !important;
+    border-color: #ec3542 !important;
 
 }
 
 .bootstrap-datetimepicker-widget table td.active,
 .bootstrap-datetimepicker-widget table td.active:hover {
-    background-color: #ffc513 !important;
+    background-color: #ec3542 !important;
 
 }
 
 div.wpcf7-validation-errors, div.wpcf7-acceptance-missing {
-    border-color: #ffc513;
+    border-color: #ec3542;
 }
 
 @media (min-width: 992px) {
     header.page-header-2 .navbar-nav .dropdown-menu {
-        border-bottom-color: #ffc513;
+        border-bottom-color: #ec3542;
     }
 }
 
 .pricing-box-footer .mark-icon {
-    color: #ffc513;
+    color: #ec3542;
 
 }
 
 @media (max-width: 991px) {
     header.page-header-2 .navbar-toggle:hover {
-        color: #ffc513;
+        color: #ec3542;
 
     }
 }
 
 .filters-row .page-numbers .current {
-    color: #ffc513;
+    color: #ec3542;
 
 }
 
 .estimator-panel .col-title [class*='icon'] {
-    color: #ffc513;
+    color: #ec3542;
 
 }
 
 .service-grid-item:hover .service-grid-item-title {
-    background-color: #ffc513;
+    background-color: #ec3542;
 
 }
 
 .service-grid-item-title:after {
-    border-color: transparent transparent #ffc513 transparent;
+    border-color: transparent transparent #ec3542 transparent;
 }
 
 @media (max-width: 767px) {
     .estimator-panel .panel-toggle {
-        color: #ffc513;
+        color: #ec3542;
 
     }
 }
 
 .car-faq-text .vc_toggle_title:hover h4 {
-    color: #ffc513;
+    color: #ec3542;
 
 }
 
 .filters-by-category ul li a:hover, .filters-by-category ul li a.selected {
-    color: #ffc513;
+    color: #ec3542;
 
 }
 
 .filters-by-category ul li a:after {
-    background-color: #ffc513;
+    background-color: #ec3542;
 
 }
 
 .twentytwenty-handle {
-    background-color: #ffc513;
+    background-color: #ec3542;
 
 }
 
 .section-blog .item .item__img .icon {
-    background-color: #ffc513;
+    background-color: #ec3542;
 
 }
 
 .slick-dots li.slick-active button, .slick-dots li.slick-active button:hover {
-    background: #ffc513;
+    background: #ec3542;
 
 }
 
 .block-title .title-separator {
-    background-color: #ffc513;
+    background-color: #ec3542;
 
 }
 
 .block-title .title-separator:before, .block-title .title-separator:after {
-    background-color: #ffc513;
+    background-color: #ec3542;
 
 }
 
 .faq-accordion .faq__title:before {
-    background-color: #ffc513;
+    background-color: #ec3542;
 
 }
 
 .info02 .info02__icon {
-    color: #ffc513;
+    color: #ec3542;
 
 }
 
 .blog-post .post-meta li.author .author__text {
-    color: #ffc513;
+    color: #ec3542;
 
 }
 
 .promo01 .promo01-header {
-    background-color: #ffc513;
+    background-color: #ec3542;
 
 }
 
 .promo01 .promo01-content .text-02 {
-    color: #ffc513;
+    color: #ec3542;
 
 }
 
 .services-block-alt .caption .title a:hover {
-    color: #ffc513;
+    color: #ec3542;
 
 }
 
 .services-block-alt:before {
-    background-color: #ffc513;
+    background-color: #ec3542;
 
 }
 
 .nav-pills > li.active > a {
-    color: #ffc513 !important;
+    color: #ec3542 !important;
 
 }
 
 .nav-aside ul li a:before {
-    background-color: #ffc513;
+    background-color: #ec3542;
 
 }
 
 .address-info .address-info__icon {
-    color: #ffc513;
+    color: #ec3542;
 
 }
 
 .services-box .services-box__icon {
-    color: #ffc513;
+    color: #ec3542;
 
 }
 
 .card01 .card01__wrapper:before {
-    background-color: #ffc513;
+    background-color: #ec3542;
 
 }
 
 .card01 .card01__title a:hover {
-    color: #ffc513;
+    color: #ec3542;
 
 }
 
 .card01 .card01__social-icon li a:hover {
-    background-color: #ffc513;
+    background-color: #ec3542;
 
 }
 
 .marker-list-sm > li:after {
-    color: #ffc513;
+    color: #ec3542;
 
 }
 
 .promo-01 .promo-01__title .text-02 {
-    color: #ffc513;
+    color: #ec3542;
 
 }
 
 .box01 .box01__icon:before {
-    background-color: #ffc513;
+    background-color: #ec3542;
 
 }
 
 .promo02 .promo02__marker {
-    color: #ffc513;
+    color: #ec3542;
 
 }
 
 .stat-box02 .stat-box02__value {
-    color: #ffc513;
+    color: #ec3542;
 
 }
 
 .text-icon:before {
-    background-color: #ffc513;
+    background-color: #ec3542;
 
 }
 
 .video-block .video-block__icon span {
-    background-color: #ffc513;
+    background-color: #ec3542;
 
 }
 
 .stat-box02 .stat-box02__value:before {
-    background-color: #ffc513;
+    background-color: #ec3542;
 
 }
 
 .pricing-box02:before {
-    background-color: #ffc513;
+    background-color: #ec3542;
 
 }
 
 .pricing-box02.slick-center .pricing-box02__price, .pricing-box02.item-active .pricing-box02__price {
-    color: #ffc513;
+    color: #ec3542;
 
 }
 
 .newsbox .newsbox__title a:hover {
-    color: #ffc513;
+    color: #ec3542;
 
 }
 
 .newsbox .newsbox__data .icon-marker {
-    background-color: #ffc513;
+    background-color: #ec3542;
 
 }
 
 .newsbox .newsbox__link:hover {
-    color: #ffc513;
+    color: #ec3542;
 
 }
 
 .box-custom01 .box-custom01__icon .icon {
-    color: #ffc513;
+    color: #ec3542;
 
 }
 
 .video-wrapper .video-block__icon span {
-    background-color: #ffc513;
+    background-color: #ec3542;
 
 }
 
 .services-tabs .services-tabs-nav > li a:before {
-    background-color: #ffc513;
+    background-color: #ec3542;
 
 }
 
 .start-box02 .start-box02__text {
-    border-color: #ffc513;
+    border-color: #ec3542;
 }
 
 .pt-slick-button .slick-arrow:hover {
-    color: #ffc513;
+    color: #ec3542;
 
 }
 
 .banner-service .banner-text-3 i.icon {
-    color: #ffc513;
+    color: #ec3542;
 }
 
 .services-title .title-separator {
-    background-color: #ffc513;
+    background-color: #ec3542;
 
 }
 
 .estimate-current-change {
-    color: #ffc513;
+    color: #ec3542;
 }
 
 .estimate-part-price-price {
-    color: #ffc513;
+    color: #ec3542;
 }
 
 .estimate-part-close {
-    color: #ffc513;
+    color: #ec3542;
 }
 
 .estimate-table-info-list .round-icon {
-    color: #ffc513;
-    border-color: #ffc513;
+    color: #ec3542;
+    border-color: #ec3542;
 }
 
 .estimator-panel .form-group label a, div.rwmb-input .form-group label a {
-    color: #ffc513;
+    color: #ec3542;
 }
 
 #fullServices.modal .modal-header .close {
-    color: #ffc513;
+    color: #ec3542;
 }
 
 .services-title .title-separator:before, .services-title .title-separator:after {
-    background-color: #ffc513;
+    background-color: #ec3542;
 
 }
 
@@ -842,31 +842,31 @@ Custom-color fix
 
 -->
 .btn:not([data-action]).btn-border {
-    border-color: #ffc513;
+    border-color: #ec3542;
 }
 
 .social-links ul li a {
-    color: #ffc513;
+    color: #ec3542;
 }
 
 .gallery-item .hover .view:before {
-    border-color: #ffc513;
+    border-color: #ec3542;
 }
 
 @media (max-width: 991px) {
     header .heade-mobile .navbar-toggle:hover span {
-        background-color: #ffc513;
+        background-color: #ec3542;
     }
 }
 
 @media (max-width: 991px) {
     .header-info-toggle [class*='icon-']:hover {
-        color: #ffc513;
+        color: #ec3542;
     }
 }
 
 #appointmentForm.modal .modal-dialog .modal-header .close {
-    color: #ffc513;
+    color: #ec3542;
 }
 
 .btn-invert:before, .btn-invert:after {

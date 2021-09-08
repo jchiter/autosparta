@@ -9078,7 +9078,7 @@ body.rtl .demo-ltr {
 }
 
 .colorswatch-inside a.color-yellow {
-    background-color: #fede00
+    background-color: #ec3542
 }
 
 .colorswatch-inside a.color-blue {
@@ -32401,13 +32401,13 @@ input.input-text.qty {
 
 .woocommerce span.onsale {
     padding: 0;
-    background-color: #ffc513;
+    background-color: #ec3542;
     color: #111;
     left: 3px
 }
 
 .wc-tabs > li > a::after {
-    background: #fede00 none repeat scroll 0 0;
+    background: #ec3542 none repeat scroll 0 0;
     bottom: -1px;
     content: "";
     height: 4px;
@@ -32458,7 +32458,7 @@ input.input-text.qty {
 }
 
 .tabs.wc-tabs li.active a {
-    color: #fede00 !important
+    color: #ec3542 !important
 }
 
 .tabs.wc-tabs li a {
@@ -32499,7 +32499,7 @@ input.input-text.qty {
 }
 
 .woocommerce p.stars a {
-    color: #fede00 !important
+    color: #ec3542 !important
 }
 
 .star-5.active {
@@ -32507,7 +32507,7 @@ input.input-text.qty {
 }
 
 #commentform #comment:hover, #commentform #comment:focus, #commentform #comment.focus {
-    border-color: #fede00;
+    border-color: #ec3542;
     box-shadow: none;
     outline: medium none
 }
@@ -32528,7 +32528,7 @@ input.input-text.qty {
 }
 
 .textarea-custom:hover, .textarea-custom:focus, .input-custom:hover, .input-custom.focus, .wpcf7-form-control.wpcf7-textarea:hover, .wpcf7-form-control.wpcf7-textarea:focus {
-    border-color: #fede00 !important;
+    border-color: #ec3542 !important;
     box-shadow: none !important;
     outline: medium none !important
 }
@@ -32560,7 +32560,7 @@ header .header-right-bottom {
     float: none;
     margin: 0 auto 20px;
     font-size: 10px;
-    color: #ffc513
+    color: #ec3542
 }
 
 .woocommerce div.product p.price ins, .woocommerce div.product span.price ins {
@@ -32568,7 +32568,7 @@ header .header-right-bottom {
 }
 
 .woocommerce .widget_price_filter .ui-slider .ui-slider-range, .woocommerce .widget_price_filter .ui-slider .ui-slider-handle {
-    background-color: #ffc513
+    background-color: #ec3542
 }
 
 .price_slider_amount .btn {
@@ -32706,7 +32706,7 @@ span.show-result {
 .woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current {
     background: transparent;
     border: none !important;
-    color: #ffc513 !important
+    color: #ec3542 !important
 }
 
 body:not(.home).woocommerce #pageContent {
@@ -32843,7 +32843,7 @@ header .header-cart .badge {
     position: absolute;
     right: -12px;
     top: -14px;
-    background-color: #ffc513;
+    background-color: #ec3542;
     color: #000;
     -webkit-transition: 0.2s;
     -moz-transition: 0.2s;
@@ -32853,7 +32853,7 @@ header .header-cart .badge {
 }
 
 header .header-cart:hover a.icon, header .header-cart.opened a.icon {
-    color: #fede00
+    color: #ec3542
 }
 
 header .header-cart:hover .badge, header .header-cart.opened .badge {
@@ -33060,7 +33060,7 @@ header .header-cart.opened .header-cart-dropdown {
     border: 0;
     border-radius: 0;
     box-shadow: none;
-    background: #fede00;
+    background: #ec3542;
     border-radius: 50%;
     cursor: pointer
 }
@@ -33079,7 +33079,7 @@ header .header-cart.opened .header-cart-dropdown {
 }
 
 .noUi-connect {
-    background: #fede00;
+    background: #ec3542;
     border: 0;
     border-radius: 0;
     height: 6px;
@@ -33235,7 +33235,7 @@ header .header-cart.opened .header-cart-dropdown {
 .rating i {
     font-size: 10px;
     padding: 0 1px;
-    color: #fede00
+    color: #ec3542
 }
 
 .rating-4 i:nth-child(5) {
@@ -33377,7 +33377,7 @@ h5 > .rating {
 }
 
 .simple-pagination li.active {
-    color: #fede00
+    color: #ec3542
 }
 
 .product-block .rating i {
@@ -33694,7 +33694,7 @@ p.info + h2.h-phone {
 }
 
 .color, a.color, a.color:hover, a.color:focus {
-    color: #fede00
+    color: #ec3542
 }
 
 .color-alt {
@@ -33702,7 +33702,7 @@ p.info + h2.h-phone {
 }
 
 svg path.color {
-    fill: #fede00 !important
+    fill: #ec3542 !important
 }
 
 h1, h2.h-lg {
@@ -33916,7 +33916,7 @@ h1, h2, h3, h4, h5, h6 {
     clear: both;
     height: 50px;
     margin-top: 50px;
-    border-top: 1px solid #fede00
+    border-top: 1px solid #ec3542
 }
 
 @media (max-width: 767px) {
@@ -33942,7 +33942,7 @@ blockquote {
 }
 
 .blockquote-01 {
-    border-left-color: #fede00
+    border-left-color: #ec3542
 }
 
 .blockquote-01 p {
@@ -33957,7 +33957,7 @@ blockquote {
 }
 
 .blockquote-01 footer cite {
-    color: #fede00;
+    color: #ec3542;
     font-weight: 600;
     font-size: 18px;
     font-style: normal;
@@ -33969,7 +33969,7 @@ blockquote {
     margin-bottom: 30px;
     margin-left: 40px;
     padding-left: 30px;
-    border-left: 4px solid #fede00
+    border-left: 4px solid #ec3542
 }
 
 .marker-list {
@@ -34010,7 +34010,7 @@ blockquote {
     font-family: 'auto';
     content: "\e91d";
     font-size: 15px;
-    color: #fede00
+    color: #ec3542
 }
 
 @media (max-width: 1199px) {
@@ -34052,7 +34052,7 @@ blockquote {
     font-family: 'auto';
     content: "\e91d";
     font-size: 15px;
-    color: #fede00
+    color: #ec3542
 }
 
 .search-form-area .marker-list-sm > li {
@@ -34139,7 +34139,7 @@ blockquote {
 .block-title .title-separator {
     width: 46px;
     height: 3px;
-    background-color: #fede00;
+    background-color: #ec3542;
     position: relative;
     display: inline-block;
     margin: 0 auto;
@@ -34150,7 +34150,7 @@ blockquote {
     content: '';
     width: 3px;
     height: 3px;
-    background-color: #fede00;
+    background-color: #ec3542;
     display: inline-block;
     position: absolute
 }
@@ -34299,7 +34299,7 @@ blockquote {
 .category-list > li:after {
     content: '\e920';
     font-family: 'auto';
-    color: #fede00;
+    color: #ec3542;
     display: block;
     position: absolute;
     left: 0;
@@ -34343,7 +34343,7 @@ blockquote {
     min-width: 18px;
     content: counter(item) ". ";
     counter-increment: item;
-    color: #fede00
+    color: #ec3542
 }
 
 .contact-info {
@@ -34361,7 +34361,7 @@ blockquote {
     left: 0;
     font-size: 36px;
     line-height: 1em;
-    color: #fede00
+    color: #ec3542
 }
 
 .contact-info h5 {
@@ -34529,7 +34529,7 @@ blockquote {
     border: 1px transparent solid;
     border-radius: 50%;
     position: absolute;
-    border-right-color: #fede00;
+    border-right-color: #ec3542;
     -webkit-animation: spin 5s linear infinite;
     animation: spin 5s linear infinite
 }
@@ -34585,7 +34585,7 @@ blockquote {
     -ms-transform: rotate(45deg);
     right: 33px;
     bottom: 33px;
-    background: #fede00
+    background: #ec3542
 }
 
 .loader .subline {
@@ -34638,7 +34638,7 @@ blockquote {
     -ms-transform: rotate(22.5deg);
     right: 20px;
     bottom: 49px;
-    background: #fede00
+    background: #ec3542
 }
 
 .loader .needle {
@@ -34661,7 +34661,7 @@ blockquote {
     height: 0;
     border-style: solid;
     border-width: 3.5px 50px 3.5px 0;
-    border-color: transparent #fede00 transparent transparent;
+    border-color: transparent #ec3542 transparent transparent;
     position: absolute;
     right: 50%;
     top: 50%;
@@ -35043,7 +35043,7 @@ embed, iframe, object {
 
 .input-custom:hover, .input-custom:focus, .input-custom.focus {
     outline: none;
-    border-color: #fede00
+    border-color: #ec3542
 }
 
 .input-custom.input-full {
@@ -35381,7 +35381,7 @@ button.pull-right, .btn.pull-right {
 }
 
 .blog-post a.more-link:hover, .btn:hover, .btn.active, .btn:active {
-    background: #fede00;
+    background: #ec3542;
     color: #333
 }
 
@@ -35393,7 +35393,7 @@ button.pull-right, .btn.pull-right {
     top: 0;
     width: 150%;
     height: 100%;
-    background-color: #fede00;
+    background-color: #ec3542;
     -webkit-transform: skew(30deg) translate3d(0, 0, 0);
     -moz-transform: skew(30deg) translate3d(0, 0, 0);
     -ms-transform: skew(30deg) translate3d(0, 0, 0);
@@ -35438,7 +35438,7 @@ button.pull-right, .btn.pull-right {
 }
 
 .btn:not([data-action]):hover {
-    background: #ffc513;
+    background: #ec3542;
     color: #2c2c2c
 }
 
@@ -35449,7 +35449,7 @@ button.pull-right, .btn.pull-right {
 }
 
 .btn.btn-border {
-    border: 2px solid #fede00;
+    border: 2px solid #ec3542;
     background: transparent;
     line-height: 14px
 }
@@ -35492,12 +35492,12 @@ button#place_order, .btn.btn-lg {
 }
 
 button#place_order, .btn-invert {
-    background: #fede00;
+    background: #ec3542;
     color: #2c2c2c
 }
 
 .btn-invert:not([data-action]), .btn-invert:not([data-action]).active, .btn-invert:not([data-action]):active, .btn-invert:not([data-action]).focus, .btn-invert:not([data-action]):focus {
-    background: #fede00;
+    background: #ec3542;
     color: #2c2c2c
 }
 
@@ -35564,7 +35564,7 @@ button#place_order, .btn-invert {
 
 .social-links ul li a {
     font-size: 45px;
-    color: #fede00;
+    color: #ec3542;
     text-decoration: none;
     cursor: pointer;
     -webkit-transition: color 0.3s ease;
@@ -35586,7 +35586,7 @@ button#place_order, .btn-invert {
 .link a {
     font-size: 34px;
     line-height: 1em;
-    color: #fede00;
+    color: #ec3542;
     text-decoration: none;
     padding: 0 4px 0 0;
     -webkit-transition: color 0.3s ease;
@@ -35648,7 +35648,7 @@ a.icon-instagram-logo:hover {
 }
 
 .tags-list a:hover {
-    background-color: #fede00;
+    background-color: #ec3542;
     color: #fff
 }
 
@@ -35669,7 +35669,7 @@ a.icon-instagram-logo:hover {
 }
 
 .calendar__footer a:hover {
-    color: #fede00
+    color: #ec3542
 }
 
 .calendar table {
@@ -35710,7 +35710,7 @@ a.icon-instagram-logo:hover {
 }
 
 .calendar .selected, .calendar .selected:hover {
-    background-color: #fede00;
+    background-color: #ec3542;
     color: #2c2c2c
 }
 
@@ -35751,13 +35751,13 @@ a.icon-instagram-logo:hover {
 
 .nav-tabs > li.active > a, .nav-tabs > li > a:hover {
     border: none;
-    color: #fede00 !important;
+    color: #ec3542 !important;
     background: transparent
 }
 
 .nav-tabs > li > a::after {
     content: "";
-    background: #fede00;
+    background: #ec3542;
     height: 4px;
     position: absolute;
     width: 100%;
@@ -35775,7 +35775,7 @@ a.icon-instagram-logo:hover {
 }
 
 .tab-nav > li > a::after {
-    background: #fede00 none repeat scroll 0% 0%;
+    background: #ec3542 none repeat scroll 0% 0%;
     color: #fff
 }
 
@@ -35834,8 +35834,8 @@ a.icon-instagram-logo:hover {
 }
 
 .nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover {
-    background: #fede00;
-    border-color: #fede00;
+    background: #ec3542;
+    border-color: #ec3542;
     color: #383838
 }
 
@@ -36095,7 +36095,7 @@ a.icon-instagram-logo:hover {
 }
 
 .car-faq-text .vc_toggle_title:hover h4 {
-    color: #fede00
+    color: #ec3542
 }
 
 @media (max-width: 767px) {
@@ -36165,7 +36165,7 @@ a.icon-instagram-logo:hover {
 }
 
 .wpcf7-response-output.wpcf7-display-none.wpcf7-mail-sent-ng {
-    border: 2px solid #fede00
+    border: 2px solid #ec3542
 }
 
 @media (max-width: 991px) {
@@ -36283,7 +36283,7 @@ header .header-right .address {
     line-height: 24px;
     padding: 17px 60px 17px 86px;
     margin-left: -15px;
-    width: calc(100% - 305px);
+    width: calc(100% - 230px);
     color: #fff;
     text-align: left
 }
@@ -36300,7 +36300,7 @@ header .header-right .address {
     background-color: transparent;
     font-size: 16px;
     line-height: 24px;
-    text-align: left;
+    text-align: center;
     padding: 17px 60px 17px 86px
 }
 
@@ -36314,7 +36314,7 @@ header .header-right .address {
 }
 
 header.page-header-1 .header-right .address span {
-    color: #fede00
+    color: #ec3542
 }
 
 header.page-header-1 .header-right-top {
@@ -36359,7 +36359,7 @@ header.page-header-1 .header-phone .phone-number {
 }
 
 header.page-header-1 .header-phone .phone-number .code {
-    color: #fede00
+    color: #ec3542
 }
 
 header.page-header-1 .logo {
@@ -36392,7 +36392,7 @@ header.page-header-1 .logo > a {
 }
 
 header.page-header-1 .logo img {
-    max-height: 110px;
+    max-height: 87px;
     max-width: 100%
 }
 
@@ -36424,7 +36424,7 @@ header.page-header-1 .logo img {
     display: block;
     float: right;
     position: relative;
-    background-color: #fede00;
+    background-color: #ec3542;
     height: 59px;
     font-size: 19px;
     line-height: 25px;
@@ -36473,7 +36473,7 @@ header.page-header .appointment:after, .modal-header .appointment:after {
     border-width: 0 48px 67px 0;
     left: -47.3px;
     top: -7px;
-    border-color: transparent #fede00 transparent transparent
+    border-color: transparent #ec3542 transparent transparent
 }
 
 .layout-2 .appointment {
@@ -36567,7 +36567,7 @@ header.page-header .appointment:after, .modal-header .appointment:after {
         margin: auto;
         left: 0;
         right: 0;
-        background-color: #fede00;
+        background-color: #ec3542;
         transition: width 0.2s linear
     }
 
@@ -36691,7 +36691,7 @@ header.page-header .appointment:after, .modal-header .appointment:after {
 }
 
 body .search-container:hover .button {
-    background-color: #fede00;
+    background-color: #ec3542;
     color: #000
 }
 
@@ -36747,7 +36747,7 @@ body .search-container .button {
     }
 
     .search-container .button {
-        background-color: #fede00;
+        background-color: #ec3542;
         color: #000
     }
 
@@ -36846,7 +36846,7 @@ body .search-container .button {
     }
 
     header .heade-mobile .search-container .button:hover {
-        color: #fede00
+        color: #ec3542
     }
 
     header .heade-mobile .search-container.active input {
@@ -36899,7 +36899,7 @@ body .search-container .button {
     }
 
     header .heade-mobile .navbar-toggle:hover span {
-        background-color: #fede00
+        background-color: #ec3542
     }
 }
 
@@ -37118,7 +37118,7 @@ body.slide-active .darkout-menu {
         top: 0;
         right: 10px;
         height: 42px;
-        color: #fede00;
+        color: #ec3542;
         text-align: left;
         text-transform: uppercase;
         font-size: 18px;
@@ -37403,7 +37403,7 @@ body.admin-bar.home #appointmentForm.modal .modal-dialog {
 }
 
 .page-footer .social-links ul li a {
-    color: #fede00;
+    color: #ec3542;
     font-size: 44px
 }
 
@@ -37439,7 +37439,7 @@ body.admin-bar.home #appointmentForm.modal .modal-dialog {
 }
 
 .page-footer .footer-phone .number {
-    color: #fede00;
+    color: #ec3542;
     white-space: nowrap
 }
 
@@ -37448,7 +37448,7 @@ body.admin-bar.home #appointmentForm.modal .modal-dialog {
 }
 
 .page-footer .contact-info .icon {
-    color: #fede00;
+    color: #ec3542;
     font-size: 36px
 }
 
@@ -37561,7 +37561,7 @@ body.admin-bar.home #appointmentForm.modal .modal-dialog {
 
 #mainSlider .slide-content h3 {
     letter-spacing: -.04em;
-    color: #fede00;
+    color: #ec3542;
     text-transform: none;
     font-size: 72px;
     line-height: 1.2;
@@ -37604,7 +37604,7 @@ body.admin-bar.home #appointmentForm.modal .modal-dialog {
 
 #mainSlider .slide-content .btn:hover, #mainSlider .slide-content .btn.active, #mainSlider .slide-content .btn:active, #mainSlider .slide-content .btn.focus, #mainSlider .slide-content .btn:focus {
     background: #fff;
-    color: #fede00
+    color: #ec3542
 }
 
 #mainSlider .banner-btn, #mainSlider .banner-btn:focus {
@@ -37617,7 +37617,7 @@ body.admin-bar.home #appointmentForm.modal .modal-dialog {
     outline: 0;
     -moz-box-shadow: none;
     box-shadow: none;
-    border: 2px solid #fede00;
+    border: 2px solid #ec3542;
     color: #fff;
     -webkit-transition: 0.2s;
     -moz-transition: 0.2s;
@@ -37752,7 +37752,7 @@ body.admin-bar.home #appointmentForm.modal .modal-dialog {
 }
 
 #mainSlider .slick-prev:hover:before, #mainSlider .slick-next:hover:before {
-    color: #fede00
+    color: #ec3542
 }
 
 #mainSlider .slick-prev {
@@ -38004,7 +38004,7 @@ strong.breadcrumb_last, .breadcrumbs span span {
 }
 
 .breadcrumbs a:hover {
-    color: #fede00
+    color: #ec3542
 }
 
 .breadcrumbs > li {
@@ -38074,7 +38074,7 @@ strong.breadcrumb_last, .breadcrumbs span span {
     margin: auto;
     left: 0;
     right: 0;
-    background-color: #fede00;
+    background-color: #ec3542;
     transition: width 0.2s linear
 }
 
@@ -38152,7 +38152,7 @@ strong.breadcrumb_last, .breadcrumbs span span {
     width: 103px;
     height: 103px;
     margin: 0 auto;
-    background: #fede00;
+    background: #ec3542;
     border-radius: 50%
 }
 
@@ -38276,7 +38276,7 @@ strong.breadcrumb_last, .breadcrumbs span span {
     width: 93px;
     height: 93px;
     margin: 0 auto;
-    background-color: #fede00;
+    background-color: #ec3542;
     border-radius: 50%
 }
 
@@ -38300,7 +38300,7 @@ strong.breadcrumb_last, .breadcrumbs span span {
     width: calc(100%);
     height: calc(100%);
     opacity: 0;
-    background-color: #ffc513;
+    background-color: #ec3542;
     border-radius: 50%;
     -webkit-box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
     -moz-box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
@@ -38399,7 +38399,7 @@ strong.breadcrumb_last, .breadcrumbs span span {
     z-index: 1;
     font-size: 60px;
     line-height: 144px;
-    color: #fede00;
+    color: #ec3542;
     -webkit-transition: color 0.5s ease;
     -moz-transition: color 0.5s ease;
     -ms-transition: color 0.5s ease;
@@ -38421,7 +38421,7 @@ strong.breadcrumb_last, .breadcrumbs span span {
     width: calc(100%);
     height: calc(100%);
     opacity: 0;
-    background-color: #fede00;
+    background-color: #ec3542;
     -webkit-box-shadow: 0 0 0 0 rgba(94, 138, 241, .25);
     -moz-box-shadow: 0 0 0 0 rgba(94, 138, 241, .25);
     box-shadow: 0 0 0 0 rgba(94, 138, 241, .25);
@@ -38470,7 +38470,7 @@ strong.breadcrumb_last, .breadcrumbs span span {
     font-size: 20px;
     line-height: 40px;
     font-family: 'Muli', sans-serif;
-    color: #fede00;
+    color: #ec3542;
     text-align: right
 }
 
@@ -38496,8 +38496,8 @@ strong.breadcrumb_last, .breadcrumbs span span {
 }
 
 .table .cell-marker {
-    background: #fede00;
-    border-color: #fede00;
+    background: #ec3542;
+    border-color: #ec3542;
     padding-left: 12px;
     padding-right: 12px
 }
@@ -38577,7 +38577,7 @@ strong.breadcrumb_last, .breadcrumbs span span {
     width: 124px;
     height: 124px;
     border-radius: 50%;
-    background: #fede00;
+    background: #ec3542;
     text-align: center;
     -webkit-transition: all 0.5s ease;
     -moz-transition: all 0.5s ease;
@@ -38703,7 +38703,7 @@ h2 + .testimonials {
 .testimonials-item .inside .rating {
     margin-right: 15px;
     font-size: 11px;
-    color: #fede00
+    color: #ec3542
 }
 
 .testimonials-item .inside .rating i {
@@ -38844,7 +38844,7 @@ h2 + .testimonials {
     top: 22px;
     right: 20px;
     font-size: 150px;
-    color: #fede00
+    color: #ec3542
 }
 
 .testimonial-card-title {
@@ -39141,7 +39141,7 @@ h2 + .testimonials {
 
 .faq-item .panel-heading .panel-title {
     text-align: left !important;
-    border-top: 1px solid #fede00;
+    border-top: 1px solid #ec3542;
     display: table;
     min-height: 90px;
     width: 100%
@@ -39171,7 +39171,7 @@ h2 + .testimonials {
 }
 
 .calendar_wrap td#today {
-    background-color: #fede00;
+    background-color: #ec3542;
     color: #fff
 }
 
@@ -39203,7 +39203,7 @@ h2 + .testimonials {
 }
 
 .faq-item .panel-heading .panel-title > a:hover {
-    color: #fede00
+    color: #ec3542
 }
 
 @media screen and (max-width: 767px) {
@@ -39242,7 +39242,7 @@ h2 + .testimonials {
     height: 90px;
     font-size: 44px;
     line-height: 90px;
-    background-color: #fede00;
+    background-color: #ec3542;
     text-align: center;
     color: #000
 }
@@ -39318,7 +39318,7 @@ h2 + .testimonials {
 }
 
 .faq-item-sm.panel .panel-heading a:not(.collapsed) > span.closed {
-    background-color: #fede00
+    background-color: #ec3542
 }
 
 .faq-item-sm.panel .panel-heading a:not(.collapsed) > span.opened {
@@ -39496,7 +39496,7 @@ h2 + .testimonials {
 }
 
 .blog-post .post-image .post-link:hover {
-    color: #fede00;
+    color: #ec3542;
     text-decoration: none
 }
 
@@ -39538,7 +39538,7 @@ h2 + .testimonials {
 .blog-post .post-meta li i.icon {
     font-size: 20px;
     padding-right: 7px;
-    color: #fede00
+    color: #ec3542
 }
 
 .blog-post .post-meta li:last-child {
@@ -39646,7 +39646,7 @@ h2 + .testimonials {
 }
 
 .post-preview .post-title a:hover {
-    color: #fede00
+    color: #ec3542
 }
 
 .view-more-post {
@@ -39746,7 +39746,7 @@ h2 + .testimonials {
 }
 
 .comments .comment .text .meta a {
-    color: #fede00;
+    color: #ec3542;
     font-size: 14px;
     padding: 0 12px
 }
@@ -39766,7 +39766,7 @@ h2 + .testimonials {
 .comments .comment .text .date i.icon {
     font-size: 20px;
     padding-right: 7px;
-    color: #fede00
+    color: #ec3542
 }
 
 .single_pg_cont .form-submit {
@@ -40156,7 +40156,7 @@ h2 + .testimonials {
     font-size: 30px;
     text-shadow: inherit;
     opacity: 1;
-    color: #fede00;
+    color: #ec3542;
     border-radius: 0;
     min-width: unset
 }
@@ -40808,7 +40808,7 @@ h2 + .testimonials {
 }
 
 .services-block .image {
-    background-color: #fede00
+    background-color: #ec3542
 }
 
 .services-block .image img {
@@ -40820,7 +40820,7 @@ h2 + .testimonials {
 }
 
 .services-block .service.dark h2, .services-block .service.dark h3, .services-block .service.dark h4 {
-    color: #fede00
+    color: #ec3542
 }
 
 .vertical-tab-content h2, .vertical-tab-content h1 {
@@ -40930,7 +40930,7 @@ h2 + .testimonials {
 }
 
 .services-angle-text .number {
-    background: #fede00;
+    background: #ec3542;
     display: inline-block;
     width: 40px;
     height: 40px;
@@ -40961,22 +40961,22 @@ h2 + .testimonials {
     font-size: 50px;
     line-height: 118px;
     text-align: center;
-    background-color: #fede00;
+    background-color: #ec3542;
     opacity: 0;
     -webkit-transition: 0.35s;
     -moz-transition: 0.35s;
     -ms-transition: 0.35s;
     -o-transition: 0.35s;
-    -webkit-box-shadow: 0 0 0 20px #fede00;
-    -moz-box-shadow: 0 0 0 20px #fede00;
-    box-shadow: 0 0 0 20px #fede00
+    -webkit-box-shadow: 0 0 0 20px #ec3542;
+    -moz-box-shadow: 0 0 0 20px #ec3542;
+    box-shadow: 0 0 0 20px #ec3542
 }
 
 .services-block-alt .image:hover i, .services-block-alt .image:hover .fack_icon_div {
     opacity: 1;
-    -webkit-box-shadow: 0 0 0 0 #fede00;
-    -moz-box-shadow: 0 0 0 0 #fede00;
-    box-shadow: 0 0 0 0 #fede00
+    -webkit-box-shadow: 0 0 0 0 #ec3542;
+    -moz-box-shadow: 0 0 0 0 #ec3542;
+    box-shadow: 0 0 0 0 #ec3542
 }
 
 .services-block-alt .image .fack_icon_div img {
@@ -41159,7 +41159,7 @@ h2 + .testimonials {
     content: '';
     width: 3px;
     height: 46px;
-    background-color: #fede00;
+    background-color: #ec3542;
     display: block;
     position: absolute;
     top: 1px;
@@ -41232,7 +41232,7 @@ h2 + .testimonials {
         display: inline-block;
         width: 46px;
         height: 2px;
-        background-color: #fede00;
+        background-color: #ec3542;
         position: absolute;
         bottom: 0;
         left: 50%;
@@ -41878,7 +41878,7 @@ form.quote-form p {
     font-size: .2em;
     line-height: 1em;
     font-weight: 700;
-    color: #fede00
+    color: #ec3542
 }
 
 .search-form-area .coupon-text5 {
@@ -41895,7 +41895,7 @@ form.quote-form p {
     line-height: 2.315em;
     border-radius: 2px;
     font-weight: 700;
-    background-color: #fede00;
+    background-color: #ec3542;
     text-decoration: none;
     -webkit-transition: 0.2s;
     -moz-transition: 0.2s;
@@ -41912,7 +41912,7 @@ form.quote-form p {
     height: 0;
     border-style: solid;
     border-width: .8em 6.125em 0 6.125em;
-    border-color: #fede00 transparent transparent transparent;
+    border-color: #ec3542 transparent transparent transparent;
     -webkit-transition: 0.2s;
     -moz-transition: 0.2s;
     -ms-transition: 0.2s;
@@ -42123,7 +42123,7 @@ form.quote-form p {
 
 .coupon-print-inside {
     background: url(../../../themes/car-repair-services/images/coupon-bg.png) no-repeat right top;
-    border: 1px solid #fede00;
+    border: 1px solid #ec3542;
     position: relative;
     padding: 20px
 }
@@ -42169,7 +42169,7 @@ form.quote-form p {
 }
 
 .promo-banner {
-    border: 2px dotted #fede00;
+    border: 2px dotted #ec3542;
     padding: 25px 32px;
     margin: 42px 0 0
 }
@@ -42224,7 +42224,7 @@ form.quote-form p {
     font-size: 50px;
     line-height: 1em;
     margin-bottom: 12px;
-    color: #fede00;
+    color: #ec3542;
     animation: arrowUpDown 2s infinite;
     -webkit-animation: arrowUpDown 2s infinite;
     -moz-animation: arrowUpDown 2s infinite;
@@ -42289,7 +42289,7 @@ form.quote-form p {
     line-height: 42px;
     font-weight: 700;
     color: #444;
-    background-color: #fede00;
+    background-color: #ec3542;
     text-align: center
 }
 
@@ -42348,7 +42348,7 @@ form.quote-form p {
 }
 
 .breadcrumbs span {
-    color: #ffc513
+    color: #ec3542
 }
 
 .back-to-top {
@@ -42377,7 +42377,7 @@ form.quote-form p {
     width: 64px;
     height: 64px;
     border-radius: 50%;
-    background-color: #fede00;
+    background-color: #ec3542;
     font-size: 24px;
     line-height: 64px;
     text-align: center;
@@ -42587,7 +42587,7 @@ form.quote-form p {
     font-size: 32px;
     line-height: 1em;
     font-weight: 700;
-    color: #fede00;
+    color: #ec3542;
     -webkit-transition: 0.2s;
     -moz-transition: 0.2s;
     -ms-transition: 0.2s;
@@ -42914,7 +42914,7 @@ form.quote-form p {
 .stat-box .icon {
     font-size: 44px;
     line-height: 46px;
-    color: #fede00;
+    color: #ec3542;
     display: inline-block;
     vertical-align: middle
 }
@@ -43187,7 +43187,7 @@ form.quote-form p {
 }
 
 .filters-by-category ul li a:hover, .filters-by-category ul li a.selected {
-    color: #fede00
+    color: #ec3542
 }
 
 @media (max-width: 1199px) {
@@ -43261,7 +43261,7 @@ form.quote-form p {
 
     .image-scale-color:after {
         content: '';
-        background: #fede00;
+        background: #ec3542;
         position: absolute;
         z-index: 1;
         top: 0;
@@ -43381,7 +43381,7 @@ form.quote-form p {
 }
 
 .slick-prev:hover:before, .slick-next:hover:before {
-    color: #fede00
+    color: #ec3542
 }
 
 .slick-prev {
@@ -43483,7 +43483,7 @@ form.quote-form p {
 }
 
 .slick-dots li.slick-active button, .slick-dots li.slick-active button:hover {
-    background: #fede00
+    background: #ec3542
 }
 
 .slick-dots li button:hover, .slick-dots li button:focus {
@@ -43519,12 +43519,12 @@ form.quote-form p {
 }
 
 .vc_toggle {
-    border-top: 1px solid #fede00;
+    border-top: 1px solid #ec3542;
     margin: 0 0 10px
 }
 
 .vc_toggle_square .vc_toggle_icon, .vc_toggle_square.panel-heading1.vc_toggle_icon {
-    background-color: #fede00;
+    background-color: #ec3542;
     padding: 21px;
     border: none;
     width: 90px;
@@ -43556,7 +43556,7 @@ form.quote-form p {
 }
 
 .vc_toggle_square .vc_toggle_title:hover .vc_toggle_icon {
-    background: #fede00
+    background: #ec3542
 }
 
 .postform {
@@ -43964,7 +43964,7 @@ h1.text-center.decor {
     }
 
     .header-info-toggle [class*='icon-']:hover {
-        color: #fede00
+        color: #ec3542
     }
 
     .header-info-toggle.open [class*='icon-'] {
@@ -44518,11 +44518,11 @@ header.page-header-2 .header-cart:hover {
 }
 
 header.page-header-2 .header-cart:hover a.icon {
-    color: #fede00
+    color: #ec3542
 }
 
 header.page-header-2 .header-cart:hover .badge {
-    background-color: #fede00
+    background-color: #ec3542
 }
 
 header.page-header-2 .header-phone {
@@ -44537,7 +44537,7 @@ header.page-header-2 .header-phone {
 }
 
 header.page-header-2 .header-phone:hover {
-    color: #fede00
+    color: #ec3542
 }
 
 header.page-header-2 .header-topline {
@@ -44608,13 +44608,13 @@ header.page-header-2 .header-topline a:not(.header-phone) {
 }
 
 header.page-header-2 .header-topline a:not(.header-phone):hover {
-    color: #fede00
+    color: #ec3542
 }
 
 header.page-header-2 .header-topline [class*='icon'] {
     position: relative;
     top: -1px;
-    color: #fede00;
+    color: #ec3542;
     padding-right: 7px
 }
 
@@ -44763,7 +44763,7 @@ header.page-header-2 .header-row-right {
     header.page-header-2 .navbar-nav > li.current-menu-item > a:after, header.page-header-2 .navbar-nav > li:hover > a:after {
         left: 10px;
         bottom: -6px;
-        background-color: #fede00
+        background-color: #ec3542
     }
 
     header.page-header-2 .navbar-nav .dropdown-menu {
@@ -44779,7 +44779,7 @@ header.page-header-2 .header-row-right {
         opacity: 1;
         visibility: hidden;
         top: -5000px;
-        border-bottom: 3px solid #fede00;
+        border-bottom: 3px solid #ec3542;
         -webkit-box-shadow: 0 0 40px 0 rgba(0, 0, 0, .2);
         -moz-box-shadow: 0 0 40px 0 rgba(0, 0, 0, .2);
         box-shadow: 0 0 40px 0 rgba(0, 0, 0, .2)
@@ -44992,14 +44992,14 @@ header.page-header-2 .search-container:hover input {
 }
 
 header.page-header-2 .search-container:hover .button {
-    background-color: #fede00;
+    background-color: #ec3542;
     color: #000
 }
 
 header.page-header-2 a.appointment {
     display: block;
     position: relative;
-    background-color: #fede00;
+    background-color: #ec3542;
     height: 50px;
     font-size: 14px;
     line-height: 20px;
@@ -45059,7 +45059,7 @@ header.page-header-2 a.appointment:after {
     height: 0;
     border-style: solid;
     border-width: 50px 20px 0 20px;
-    border-color: transparent #fede00 transparent transparent
+    border-color: transparent #ec3542 transparent transparent
 }
 
 @media (max-width: 991px) {
@@ -45134,7 +45134,7 @@ header.page-header-2 a.appointment:after {
     }
 
     header.page-header-2 .navbar-toggle:hover {
-        color: #fede00
+        color: #ec3542
     }
 
     header.page-header-2 .header-topline {
@@ -45302,7 +45302,7 @@ header.page-header-2 a.appointment:after {
 }
 
 .footer-section03 .social-links ul li a:hover {
-    color: #fede00
+    color: #ec3542
 }
 
 .footer-section03 .copyright {
@@ -45609,7 +45609,7 @@ header.page-header-2 a.appointment:after {
     content: '\e934';
     font-family: 'auto';
     font-size: 24px;
-    color: #fede00
+    color: #ec3542
 }
 
 @media (max-width: 767px) {
@@ -45652,7 +45652,7 @@ header.page-header-2 a.appointment:after {
 }
 
 .services-tabs .services-tabs-icons > span.active {
-    background-color: #fede00
+    background-color: #ec3542
 }
 
 .services-tabs .services-tabs-icons > span:nth-child(1) {
@@ -45712,13 +45712,13 @@ header.page-header-2 a.appointment:after {
 
 .icons-tabs .nav-tabs > li.active > a, .icons-tabs .nav-tabs > li > a:hover {
     border: none;
-    color: #fede00 !important;
+    color: #ec3542 !important;
     background: transparent
 }
 
 .icons-tabs .nav-tabs > li > a::after {
     content: "";
-    background: #fede00;
+    background: #ec3542;
     height: 4px;
     position: absolute;
     width: 100%;
@@ -45740,7 +45740,7 @@ header.page-header-2 a.appointment:after {
 }
 
 .icons-tabs .nav-tabs > li.active > a [class*='icon-'], .icons-tabs .nav-tabs > li > a:hover [class*='icon-'] {
-    color: #fede00
+    color: #ec3542
 }
 
 .icons-tabs .nav-tabs > li {
@@ -45824,7 +45824,7 @@ header.page-header-2 a.appointment:after {
 }
 
 .icons-tabs .nav-tabs > li.active > a [class*='icon-'], .icons-tabs .nav-tabs > li > a:hover [class*='icon-'] {
-    color: #fede00
+    color: #ec3542
 }
 
 .icons-tabs .nav-tabs > li > a::after {
@@ -45914,7 +45914,7 @@ header.page-header-2 a.appointment:after {
     font-family: 'auto';
     content: "\e93c";
     font-size: 15px;
-    color: #fede00
+    color: #ec3542
 }
 
 .marker-list-sm-1 > li a:hover {
@@ -45943,7 +45943,7 @@ header.page-header-2 a.appointment:after {
     top: 0;
     font-size: 40px;
     line-height: 1em;
-    color: #fede00
+    color: #ec3542
 }
 
 .text-icon-hor2 + .text-icon-hor2 {
@@ -46024,7 +46024,7 @@ header.page-header-2 a.appointment:after {
     color: #333;
     font-weight: 900;
     font-style: italic;
-    background-color: #fede00
+    background-color: #ec3542
 }
 
 .banner-free .banner-text-1:after {
@@ -46036,7 +46036,7 @@ header.page-header-2 a.appointment:after {
     height: 0;
     border-style: solid;
     border-width: 70px 20px 0 0;
-    border-color: #fede00 transparent transparent transparent
+    border-color: #ec3542 transparent transparent transparent
 }
 
 @media (max-width: 1199px) {
@@ -46219,7 +46219,7 @@ header.page-header-2 a.appointment:after {
 .banner-service .banner-text-3 i.icon {
     margin-right: .4em;
     font-size: .8em;
-    color: #fede00
+    color: #ec3542
 }
 
 @media (max-width: 991px) {
@@ -46294,7 +46294,7 @@ header.page-header-2 a.appointment:after {
 
 .pricing-box-header {
     padding: .23em .15em;
-    background-color: #fede00;
+    background-color: #ec3542;
     color: #333;
     display: -webkit-flex;
     display: -ms-flexbox;
@@ -46380,7 +46380,7 @@ header.page-header-2 a.appointment:after {
     position: relative;
     top: 0;
     font-size: .12em;
-    color: #fede00;
+    color: #ec3542;
     align-self: flex-start;
     padding-right: 5px
 }
@@ -46650,7 +46650,7 @@ input[type="file"] {
     font-size: 18px;
     line-height: 21px;
     font-weight: 700;
-    border-color: #fede00
+    border-color: #ec3542
 }
 
 @media (max-width: 1240px) {
@@ -48536,7 +48536,7 @@ body:not(.home) {
 }
 
 .promo-01 .promo-01__title .text-02 {
-    color: #fede00;
+    color: #ec3542;
     margin-left: 76px
 }
 
@@ -48664,7 +48664,7 @@ body:not(.home) {
 }
 
 .btn-add {
-    color: #fede00;
+    color: #ec3542;
     font-size: 14px;
     font-weight: 500;
     text-decoration: none;
@@ -48739,7 +48739,7 @@ body:not(.home) {
 }
 
 .block.bg-1 .btn-add, .block.bg-2 .btn-add, .block.bg-3 .btn-add {
-    color: #fede00
+    color: #ec3542
 }
 
 .section__text-background {
@@ -49058,7 +49058,7 @@ body:not(.home) {
 }
 
 .promo01 .promo01-header {
-    background-color: #fede00;
+    background-color: #ec3542;
     text-align: center;
     padding: 22px 15px 31px
 }
@@ -49140,7 +49140,7 @@ body:not(.home) {
 .promo01 .promo01-content .text-02 {
     font-size: 16px;
     line-height: 20px;
-    color: #fede00;
+    color: #ec3542;
     margin-top: 8px
 }
 
@@ -49304,7 +49304,7 @@ body:not(.home) {
     font-size: 400px;
     font-weight: 400;
     line-height: 1;
-    color: #fede00;
+    color: #ec3542;
     width: 28%;
     height: 100%;
     font-family: 'Poppins', sans-serif;
@@ -49466,7 +49466,7 @@ body:not(.home) {
 }
 
 .btn:not([data-action]).btn-border {
-    border: 2px solid #fede00;
+    border: 2px solid #ec3542;
     background: transparent !important
 }
 
@@ -49550,7 +49550,7 @@ body:not(.home) {
     display: block;
     width: 70px;
     height: 70px;
-    background-color: #fede00;
+    background-color: #ec3542;
     color: #5e5e5e;
     position: absolute;
     top: -19px;
@@ -49757,7 +49757,7 @@ body:not(.home) {
     align-items: center;
     width: 99px;
     height: 99px;
-    background-color: #fede00;
+    background-color: #ec3542;
     border-radius: 50%;
     transition: background-color 0.2s linear
 }
@@ -49831,7 +49831,7 @@ body:not(.home) {
     align-items: center;
     width: 99px;
     height: 99px;
-    background-color: #fede00;
+    background-color: #ec3542;
     border-radius: 50%;
     transition: background-color 0.2s linear
 }
@@ -49879,7 +49879,7 @@ body:not(.home) {
     line-height: 65px;
     font-family: 'Poppins', sans-serif;
     font-weight: 600;
-    color: #fede00;
+    color: #ec3542;
     position: relative;
     padding: 0 22px 0 0
 }
@@ -49896,7 +49896,7 @@ body:not(.home) {
     content: '';
     width: 3px;
     height: 46px;
-    background-color: #fede00;
+    background-color: #ec3542;
     position: absolute;
     top: 12px;
     right: 0;
@@ -50070,7 +50070,7 @@ body:not(.home) {
 }
 
 .card01 .card01__title a:hover {
-    color: #fede00
+    color: #ec3542
 }
 
 .card01 .card01__description {
@@ -50116,7 +50116,7 @@ body:not(.home) {
 }
 
 .card01 .card01__social-icon li a:hover {
-    background-color: #fede00;
+    background-color: #ec3542;
     color: #fff
 }
 
@@ -50140,7 +50140,7 @@ body:not(.home) {
     margin: auto;
     left: 0;
     right: 0;
-    background-color: #fede00;
+    background-color: #ec3542;
     transition: width 0.2s linear
 }
 
@@ -50275,7 +50275,7 @@ body:not(.home) {
 }
 
 .services-box .services-box__icon {
-    color: #fede00;
+    color: #ec3542;
     font-size: 62px
 }
 
@@ -50335,7 +50335,7 @@ body:not(.home) {
 .services-title .title-separator {
     width: 46px;
     height: 3px;
-    background-color: #fede00;
+    background-color: #ec3542;
     position: relative;
     display: inline-block;
     margin: 0 auto;
@@ -50346,7 +50346,7 @@ body:not(.home) {
     content: '';
     width: 3px;
     height: 3px;
-    background-color: #fede00;
+    background-color: #ec3542;
     display: inline-block;
     position: absolute
 }
@@ -50428,7 +50428,7 @@ body:not(.home) {
     margin: auto;
     left: 0;
     right: 0;
-    background-color: #fede00;
+    background-color: #ec3542;
     transition: width 0.2s linear;
     z-index: 2
 }
@@ -50465,7 +50465,7 @@ body:not(.home) {
 }
 
 .services-block-alt .caption .title a:hover {
-    color: #fede00
+    color: #ec3542
 }
 
 .services-block-alt:hover {
@@ -50562,11 +50562,11 @@ body:not(.home) {
 
 .nav-pills > li > .current, .nav-pills > li > a:hover {
     background-color: transparent;
-    color: #fede00
+    color: #ec3542
 }
 
 .nav-pills > li > a:hover .icon {
-    color: #fede00
+    color: #ec3542
 }
 
 .nav-pills > li.active {
@@ -50574,7 +50574,7 @@ body:not(.home) {
 }
 
 .nav-pills > li.active > a {
-    color: #fede00 !important
+    color: #ec3542 !important
 }
 
 .nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover {
@@ -50616,12 +50616,12 @@ body:not(.home) {
 
 .pagination > li > span:hover, .pagination > li > a:hover {
     background-color: transparent;
-    color: #fede00;
+    color: #ec3542;
     border-color: transparent
 }
 
 .pagination > li > a:hover .icon {
-    color: #fede00
+    color: #ec3542
 }
 
 .pagination > li > a:hover span {
@@ -50633,7 +50633,7 @@ body:not(.home) {
 }
 
 .pagination > li.active > a {
-    color: #fede00 !important
+    color: #ec3542 !important
 }
 
 .pagination > li.active > a, .pagination > li.active > a:active, .pagination > li.active > a:focus, .pagination > li.active > a:hover {
@@ -50903,7 +50903,7 @@ body:not(.home) {
     content: '';
     width: 0;
     height: 100%;
-    background-color: #fede00;
+    background-color: #ec3542;
     position: absolute;
     top: 0;
     left: 0;
@@ -50953,7 +50953,7 @@ body:not(.home) {
 }
 
 .address-info .address-info__icon {
-    color: #fede00;
+    color: #ec3542;
     font-size: 20px;
     min-width: 24px;
     width: 24px;
@@ -50984,7 +50984,7 @@ body:not(.home) {
 }
 
 .address-info .address-info__content address a:hover {
-    color: #fede00
+    color: #ec3542
 }
 
 .form-default {
@@ -51135,7 +51135,7 @@ body:not(.home) {
 .blog-post .post-image .post-link .icon {
     width: 77px;
     height: 77px;
-    background-color: #fede00;
+    background-color: #ec3542;
     display: inline-block;
     border-radius: 50%
 }
@@ -51218,7 +51218,7 @@ body:not(.home) {
 .blog-post .post-meta li.author .author__text {
     font-size: 15px;
     line-height: 25px;
-    color: #fede00;
+    color: #ec3542;
     font-family: 'Poppins', sans-serif;
     font-weight: 600
 }
@@ -51294,7 +51294,7 @@ body:not(.home) {
     height: 99px;
     line-height: 1;
     font-size: 35px;
-    background-color: #fede00;
+    background-color: #ec3542;
     color: #fff;
     display: inline-block;
     border-radius: 50%;
@@ -51397,7 +51397,7 @@ body:not(.home) {
 }
 
 .side-search .form-group .btn-custom:hover .icon {
-    color: #fede00
+    color: #ec3542
 }
 
 @media (min-width: 576px) {
@@ -51451,7 +51451,7 @@ body:not(.home) {
 }
 
 .side-post:hover .side-post__content .side-post__title {
-    color: #fede00
+    color: #ec3542
 }
 
 .blog-post.single {
@@ -51565,7 +51565,7 @@ body:not(.home) {
 }
 
 .social-box .social-box__list ul li a:hover {
-    color: #fede00
+    color: #ec3542
 }
 
 .social-box .social-box__list ul li:last-child {
@@ -51630,7 +51630,7 @@ body:not(.home) {
 
 .nav-post-btn .nav-post__tag {
     position: relative;
-    color: #fede00;
+    color: #ec3542;
     transition: color 0.2s linear;
     font-size: 15px;
     display: inline-block
@@ -51646,7 +51646,7 @@ body:not(.home) {
     margin: auto;
     left: 0;
     right: 0;
-    background-color: #fede00;
+    background-color: #ec3542;
     transition: width 0.2s linear
 }
 
@@ -51701,7 +51701,7 @@ body:not(.home) {
 }
 
 .social-icon li a:hover {
-    color: #fede00
+    color: #ec3542
 }
 
 .social-icon li:not(:first-child):not(:last-child) {
@@ -51732,7 +51732,7 @@ body:not(.home) {
     justify-content: flex-start;
     align-content: flex-start;
     align-items: flex-start;
-    border: 3px solid #fede00;
+    border: 3px solid #ec3542;
     padding: 40px
 }
 
@@ -51852,7 +51852,7 @@ body:not(.home) {
 
 .comments .comment .text .meta b {
     font-family: 'Poppins', sans-serif;
-    color: #fede00;
+    color: #ec3542;
     font-size: 15px;
     font-weight: 600
 }
@@ -51871,8 +51871,8 @@ body:not(.home) {
 }
 
 .comments .comment .text .meta a:hover {
-    border-color: #fede00;
-    color: #fede00
+    border-color: #ec3542;
+    color: #ec3542
 }
 
 .comments .comment .text .date {
@@ -51975,7 +51975,7 @@ body:not(.home) {
     margin: auto;
     left: 0;
     right: 0;
-    background-color: #fede00;
+    background-color: #ec3542;
     transition: width 0.2s linear
 }
 
@@ -52053,7 +52053,7 @@ body:not(.home) {
     left: 0;
     width: 0;
     height: 0;
-    border-bottom: 113px solid #fede00;
+    border-bottom: 113px solid #ec3542;
     border-right: 113px solid transparent;
     z-index: 1
 }
@@ -52142,7 +52142,7 @@ body:not(.home) {
 }
 
 .twentytwenty-handle {
-    background-color: #fede00
+    background-color: #ec3542
 }
 
 .testimonial-wrapper {
@@ -52382,7 +52382,7 @@ body:not(.home) {
     position: absolute;
     left: 0;
     top: 0;
-    background-color: #fede00
+    background-color: #ec3542
 }
 
 .faq-accordion .faq__title .icon {
@@ -52501,7 +52501,7 @@ body:not(.home) {
 }
 
 .prd-info h3 a:hover {
-    color: #fede00;
+    color: #ec3542;
     text-decoration: none
 }
 
@@ -52773,8 +52773,8 @@ ul.category-list li:last-child {
 }
 
 .product-previews-text:hover {
-    border-color: #fede00;
-    color: #fede00
+    border-color: #ec3542;
+    color: #ec3542
 }
 
 .product-block-title {
@@ -52940,7 +52940,7 @@ ul.category-list li:last-child {
 }
 
 .info02 .info02__icon {
-    color: #fede00;
+    color: #ec3542;
     font-size: 24px
 }
 
@@ -52981,7 +52981,7 @@ ul.category-list li:last-child {
 }
 
 .woocommerce .woocommerce-product-rating .star-rating {
-    color: #fede00
+    color: #ec3542
 }
 
 .flex-control-nav.flex-control-thumbs > li {
@@ -53048,7 +53048,7 @@ header.page-header-2 .navbar-toggle {
 
     header.page-header-2 .navbar-nav .dropdown-menu li > a:hover, header.page-header-2 .navbar-nav .dropdown-menu li > a:focus {
         background-color: transparent !important;
-        color: #fede00
+        color: #ec3542
     }
 }
 
@@ -53261,7 +53261,7 @@ header.page-header-2 .header-info-mobile p > [class*='icon-'] {
     bottom: 0;
     height: 4px;
     z-index: 2;
-    background-color: #fede00;
+    background-color: #ec3542;
     transition: all 0.3s ease 0s
 }
 
@@ -54186,7 +54186,7 @@ html.touch-device .services-tabs .services-tabs-modal .services-modal {
 }
 
 .box-custom01 .box-custom01__icon .icon {
-    color: #fede00;
+    color: #ec3542;
     font-size: 40px
 }
 
@@ -54360,7 +54360,7 @@ html.touch-device .services-tabs .services-tabs-modal .services-modal {
 .start-box02 .start-box02__text {
     position: relative;
     padding: 0 0 0 22px;
-    border-left: 3px solid #fede00;
+    border-left: 3px solid #ec3542;
     font-size: 20px;
     line-height: 26px
 }
@@ -54388,7 +54388,7 @@ html.touch-device .services-tabs .services-tabs-modal .services-modal {
     }
 
     .start-box02 .start-box02__number {
-        color: #fede00;
+        color: #ec3542;
         min-width: 110px;
         text-align: right
     }
@@ -54648,7 +54648,7 @@ html.touch-device .services-tabs .services-tabs-modal .services-modal {
 }
 
 .base-color {
-    color: #fede00
+    color: #ec3542
 }
 
 .position-relative {
@@ -54718,7 +54718,7 @@ html.touch-device .services-tabs .services-tabs-modal .services-modal {
 }
 
 .pt-slick-button .slick-arrow:hover {
-    color: #fede00
+    color: #ec3542
 }
 
 @media (max-width: 1024px) {
@@ -55075,7 +55075,7 @@ html.touch-device .services-tabs .services-tabs-modal .services-modal {
     margin: auto;
     left: 0;
     right: 0;
-    background-color: #fede00;
+    background-color: #ec3542;
     -webkit-transition: width 0.2s ease;
     transition: width 0.2s ease
 }
@@ -55089,7 +55089,7 @@ html.touch-device .services-tabs .services-tabs-modal .services-modal {
 }
 
 .pricing-box02.slick-center .pricing-box02__price, .pricing-box02.item-active .pricing-box02__price {
-    color: #fede00
+    color: #ec3542
 }
 
 .pricing-box02.slick-center .pricing-box02__description, .pricing-box02.item-active .pricing-box02__description {
@@ -55267,7 +55267,7 @@ html.mac.touch-device .wrapper-extra-01:before {
 }
 
 .panel-menu ul li a:hover {
-    color: #fede00;
+    color: #ec3542;
     background: transparent
 }
 
@@ -55282,12 +55282,12 @@ html.mac.touch-device .wrapper-extra-01:before {
 }
 
 .panel-menu #mm0.mmpanel a:not(.mm-close):hover {
-    color: #fede00;
+    color: #ec3542;
     background-color: transparent
 }
 
 .panel-menu #mm0.mmpanel a:not(.mm-close):hover:after {
-    color: #fede00
+    color: #ec3542
 }
 
 .panel-menu #mm0.mmpanel .mm-next-level:after {
@@ -55318,12 +55318,12 @@ html.mac.touch-device .wrapper-extra-01:before {
 }
 
 .panel-menu .mm-close:hover, .panel-menu .mm-prev-level:hover, .panel-menu .mm-next-level:hover {
-    color: #fede00;
+    color: #ec3542;
     background-color: transparent
 }
 
 .panel-menu .mm-close:hover:before .mm-prev-level:hover:before, .panel-menu .mm-next-level:hover:after {
-    color: #fede00
+    color: #ec3542
 }
 
 .panel-menu li.mm-close-parent .mm-close {
@@ -55346,12 +55346,12 @@ html.mac.touch-device .wrapper-extra-01:before {
 }
 
 .panel-menu li.mm-close-parent .mm-close:hover {
-    color: #fede00;
+    color: #ec3542;
     background-color: transparent
 }
 
 .panel-menu li.mm-close-parent .mm-close:hover:before {
-    color: #fede00
+    color: #ec3542
 }
 
 .panel-menu .mm-prev-level {
@@ -55373,12 +55373,12 @@ html.mac.touch-device .wrapper-extra-01:before {
 }
 
 .panel-menu .mm-prev-level:hover {
-    color: #fede00;
+    color: #ec3542;
     background-color: transparent
 }
 
 .panel-menu .mm-prev-level:hover:before {
-    color: #fede00
+    color: #ec3542
 }
 
 .panel-menu .mm-next-level {
@@ -55397,12 +55397,12 @@ html.mac.touch-device .wrapper-extra-01:before {
 }
 
 .panel-menu .mm-next-level:hover {
-    color: #fede00;
+    color: #ec3542;
     background-color: transparent
 }
 
 .panel-menu .mm-next-level:hover:after {
-    color: #fede00
+    color: #ec3542
 }
 
 .panel-menu .mm-original-link {
@@ -55417,12 +55417,12 @@ html.mac.touch-device .wrapper-extra-01:before {
 }
 
 .panel-menu .mm-original-link:hover {
-    color: #fede00;
+    color: #ec3542;
     background-color: transparent
 }
 
 .panel-menu .mm-original-link:hover:before {
-    color: #fede00
+    color: #ec3542
 }
 
 .mm-open {
@@ -55720,7 +55720,7 @@ html.mac.touch-device .wrapper-extra-01:before {
     width: 46px;
     height: 3px;
     display: inline-block;
-    background-color: #fede00;
+    background-color: #ec3542;
     margin-left: 15px
 }
 
@@ -55740,7 +55740,7 @@ html.mac.touch-device .wrapper-extra-01:before {
 }
 
 .newsbox .newsbox__title a:hover {
-    color: #fede00
+    color: #ec3542
 }
 
 .newsbox .newsbox__link {
@@ -55753,7 +55753,7 @@ html.mac.touch-device .wrapper-extra-01:before {
 }
 
 .newsbox .newsbox__link:hover {
-    color: #fede00
+    color: #ec3542
 }
 
 .newsbox .newsbox-caption {
@@ -57895,4 +57895,25 @@ ol ol, ol ul, ul ol, ul ul, ul, ol {
     animation-duration: .75s;
     animation-timing-function: linear;
     animation-iteration-count: 1
+}
+
+.btn-comments-block {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.btn-comments-block .btn.btn-border.btn-comments {
+    color: #fff;
+}
+
+.btn-comments-block .btn.btn-border.btn-comments:hover {
+    background: #eb3543 !important;
+}
+
+.logo-footer {
+    background: url(../images/logo-text.png) no-repeat;
+    width: 100%;
+    height: 4.7em;
+    background-size: contain;
+    margin-bottom: 1em;
 }
