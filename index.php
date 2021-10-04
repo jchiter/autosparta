@@ -6,7 +6,7 @@
     <link type="text/css" rel="stylesheet" href="styles/css/fonts.css">
     <link type="text/css" rel="stylesheet" href="styles/css/main.min.css">
     <link type="text/css" rel="stylesheet" href="styles/css/index.css">
-    <link type="text/css" rel="stylesheet" href="styles/css/red.css"  media="all">
+    <link type="text/css" rel="stylesheet" href="styles/css/red.css" media="all">
     <link type="text/css" rel="stylesheet" href="styles/css/woocommerce-smallscreen.css" media="only screen and (max-width: 768px)">
     <link type="text/css" rel="stylesheet" href="styles/fontawesome/css/all.css">
 
@@ -81,7 +81,13 @@
 
 <body class="home page-template-default page page-id-56 wp-embed-responsive layout-1 theme-car-repair-services woocommerce-js elementor-default elementor-kit-1944 elementor-page elementor-page-56 color-red e--ua-blink e--ua-opera e--ua-webkit" data-elementor-device-mode="">
 
-<nav class="panel-menu" id="mobile-menu" style="display: none;"><div class="mmpanels"><div class="mmpanel mmopened mmcurrent" id="mm0"><ul></ul></div></div></nav>
+<nav class="panel-menu" id="mobile-menu" style="display: none;">
+    <div class="mmpanels">
+        <div class="mmpanel mmopened mmcurrent" id="mm0">
+            <ul></ul>
+        </div>
+    </div>
+</nav>
 
 <div id="loader-wrapper" style="display: none;">
     <div class="loader">
@@ -108,16 +114,8 @@
 <header class="page-header page-header-1 sticky">
     <nav class="navbar" id="slide-nav">
         <div class="container">
-            <div class="header-info-mobile" style="display: none;">
-                <div class="header-info-mobile-inside">
-                    <p><i class="icon icon-locate"></i><a href="https://yandex.ru/maps/-/CCUme4eptD" target="_blank">1-й Батайский пр., 20А, лит.Ж, Пенза, Россия</a></p>
-                    <p><i class="icon icon-phone"></i><a href="tel: 88412393303">39-33-09</a>, <a href="tel: 89379177551">8 937 917 75 51</a></p>
-                    <p><i class="icon icon-email"></i><a href="mailto: ld_sergei@mail.ru">ld_sergei@mail.ru</a></p>
-                    <p><i class="icon icon-clock"></i>Ежедневно: 08:00 – 20:00</p>
-                </div>
-            </div>
             <div class="heade-mobile-top">
-                <div class="header-info-toggle"><i class="icon-arrow_down js-info-toggle"></i></div>
+                <div class="header-info-toggle"></div>
                 <a class="appointment"></a>
             </div>
             <div class="heade-mobile">
@@ -129,7 +127,6 @@
                     </div>
                 </div>
                 <div class="col-right">
-                    <div class="address">Каждый день: 08:00 – 20:00</div>
                     <a class="appointment"></a>
                     <button type="button" class="navbar-toggle" style="display: none;">
                         <span></span>
@@ -155,9 +152,18 @@
                         <button type="button" class="navbar-toggle" style="display: none;"><i class="icon icon-lines-menu"></i></button>
                     </div>
                     <div class="header-right-bottom">
+                        <div class="social-links">
+                            <ul>
+                                <li><a class="vk" target="_blank" href="https://vk.com/stoavtosparta"><i class="fab fa-vk"></i></a></li>
+                                <li><a class="" target="_blank" href="https://www.instagram.com/sto_autosparta_penza"><i class="fab fa-instagram"></i></a></li>
+                                <li><a class="ok" target="_blank" href="https://ok.ru/profile/578199531608"><i class="fab fa-odnoklassniki"></i></a></li>
+                                <li><a class="" target="_blank" href="viber://add?number=79374184964"><i class="fab fa-viber"></i></a></li>
+                                <li><a class="" target="_blank" href="https://wa.me/79273601907"><i class="fab fa-whatsapp"></i></a></li>
+                            </ul>
+                        </div>
                         <div class="header-phone">
-                            <span class="phone-number"><a href="tel: 88412393309" style="color: #fff">39 33 09</a></span>
-                            <span class="phone-number"><a href="tel: 89379177551" style="color: #fff">8 937 917 75 51</a></span>
+                            <span class="phone-number"><a href="tel: 88412393309" style="color: #fff"><i class="fas fa-phone"></i> 39 33 09</a></span>
+                            <span class="phone-number"><a href="tel: 89374184964" style="color: #fff"><i class="fas fa-phone"></i> 8 937 418 49 64</a></span>
                         </div>
                     </div>
                 </div>
@@ -169,10 +175,36 @@
                         <ul id="menu-primary-menu" class="nav navbar-nav">
                             <li class="main-menu-item"><a href="#navigation-from-menu-about" class="menu-link main-menu-link">О нас</a></li>
                             <li class="main-menu-item"><a href="#navigation-from-menu-work" class="menu-link main-menu-link">Наша работа</a></li>
+                            <li class="main-menu-item"><a href="#navigation-from-menu-stock" class="menu-link main-menu-link">Акции</a></li>
                             <li class="main-menu-item"><a href="#navigation-from-menu-guarantee" class="menu-link main-menu-link">Нас выбирают</a></li>
                             <li class="main-menu-item"><a href="#navigation-from-menu-comment" class="menu-link main-menu-link">Отзывы</a></li>
+                            <li>
+                                <div class="heade-mobile" style="color: #fff !important; margin-top: 2em;">
+                                    <p style="padding: 0 22px;">Адрес: <a style="padding: 0" href="https://yandex.ru/maps/-/CCUme4eptD" target="_blank">1-й Батайский пр., 20А, лит.Ж, Пенза, Россия</a></p>
+                                    <p style="padding: 0 22px;">Телефон: <a style="padding: 0" href="tel: 88412393303">39-33-09</a><a style="padding: 0" href="tel: 89374184964">8 937 418 49 64</a></p>
+                                    <p style="padding: 0 22px;">Эл.почта: <a style="padding: 0" href="mailto: ld_sergei@mail.ru">ld_sergei@mail.ru</a></p>
+                                    <p style="padding: 0 22px;">Ежедневно: 08:00 – 20:00</p>
+                                </div>
+                            </li>
                         </ul>
                     </div>
+                </div>
+                <div class="row" style="height: 70px; overflow: hidden;">
+                    <?php
+                    $imagesPath = "styles/images/brands";
+                    $images = scandir($imagesPath);
+                    shuffle($images);
+
+                    foreach ($images as $image) {
+                        if ($image == '.' || $image == '..') {
+                            continue;
+                        }
+
+                        echo "<div class='col-sm-1 brands-wrap'>";
+                        echo sprintf("<img  src='%s/%s' />", $imagesPath, $image);
+                        echo "</div>";
+                    }
+                    ?>
                 </div>
             </div>
         </div>
@@ -258,11 +290,15 @@
                                             <div class="title-separator"></div>
                                         </div>
                                         <div class="services-block">
+                                            <span style="font-size: 22px; line-height: 1.5em;">
+                                                Компания "АвтоСпарта" существует на рынке более 10 лет и оказывает большой спектр услуг по техническому и постгарантийному обслуживанию автомобилей,
+                                                диагностике и ремонту ходовой части, двигателей, КПП, электрооборудования, электронных систем, систем кондиционирования, кузовным и покрасочным работам,
+                                                производит работы по замене стекол, сварочные работы, шиномонтажные работы, а также другие виды работ.<br>
+                                                Работы проводятся квалифицированными специалистами, прошедшими обучение в центрах по подготовке специалистов и имеющих большой опыт обслуживания автомобилей иностранного производства на СТО официальных дилеров.
+                                            </span><br><br>
                                             <div class="service">
                                                 <div class="image">
-                                                    <img width="390" height="390" src="styles/images/service-3-bg.jpg" class="attachment-car-repair-services-thumbnail-carousel size-car-repair-services-thumbnail-carousel" alt="" loading="lazy"
-                                                         srcset="styles/images/service-3-bg.jpg 390w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/03/service-3-bg-300x300.jpg 300w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/03/service-3-bg-150x150.jpg 150w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/03/service-3-bg-370x370.jpg 370w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/03/service-3-bg-178x179.jpg 178w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/03/service-3-bg-100x100.jpg 100w"
-                                                         sizes="(max-width: 390px) 100vw, 390px">
+                                                    <img width="390" height="390" src="styles/images/services/service-silver-content-bg.jpg">
                                                 </div>
                                                 <div class="caption">
                                                     <div class="vert-wrap">
@@ -275,38 +311,30 @@
                                             </div>
                                             <div class="service hidden-xs">
                                                 <a class="image image-scale">
-                                                    <img width="390" height="390" src="styles/images/service-2-bg.jpg" class="attachment-car-repair-services-thumbnail-carousel size-car-repair-services-thumbnail-carousel" alt="" loading="lazy"
-                                                         srcset="styles/images/service-2-bg.jpg 390w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/03/service-2-bg-300x300.jpg 300w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/03/service-2-bg-150x150.jpg 150w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/03/service-2-bg-370x370.jpg 370w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/03/service-2-bg-178x179.jpg 178w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/03/service-2-bg-100x100.jpg 100w"
-                                                         sizes="(max-width: 390px) 100vw, 390px">
+                                                    <img width="390" height="390" src="styles/images/services/service-fluids-bg.jpg">
                                                 </a>
                                             </div>
                                             <div class="service">
                                                 <div class="image">
-                                                    <img width="390" height="390" src="styles/images/service-1-bg.png" class="attachment-car-repair-services-thumbnail-carousel size-car-repair-services-thumbnail-carousel" alt="" loading="lazy"
-                                                         srcset="styles/images/service-1-bg.png 390w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/03/service-1-bg-300x300.png 300w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/03/service-1-bg-150x150.png 150w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/03/service-1-bg-370x370.png 370w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/03/service-1-bg-178x179.png 178w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/03/service-1-bg-100x100.png 100w"
-                                                         sizes="(max-width: 390px) 100vw, 390px">
+                                                    <img width="390" height="390" src="styles/images/services/service-transparent-content-bg.png">
                                                 </div>
                                                 <div class="caption">
                                                     <div class="vert-wrap">
                                                         <div class="vert">
                                                             <h3>Ремонт подвески и ходовой</h3>
-                                                            <div class="text">Возьмемся за любую работу по ходовой части и тормозам</div>
+                                                            <div class="text">Возьмемся за любую работу по ходовой части</div>
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="service hidden-xs">
                                                 <a class="image image-scale">
-                                                    <img width="390" height="390" src="styles/images/service-6-bg(1).jpg" class="attachment-car-repair-services-thumbnail-carousel size-car-repair-services-thumbnail-carousel" alt="" loading="lazy"
-                                                         srcset="styles/images/service-6-bg(1).jpg 390w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2020/02/service-6-bg-300x300.jpg 300w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2020/02/service-6-bg-150x150.jpg 150w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2020/02/service-6-bg-370x370.jpg 370w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2020/02/service-6-bg-178x179.jpg 178w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2020/02/service-6-bg-100x100.jpg 100w"
-                                                         sizes="(max-width: 390px) 100vw, 390px">
+                                                    <img width="390" height="390" src="styles/images/services/service-engine-bg.jpg">
                                                 </a>
                                             </div>
                                             <div class="service dark">
                                                 <div class="image">
-                                                    <img width="390" height="390" src="styles/images/service-5-bg.jpg" class="attachment-car-repair-services-thumbnail-carousel size-car-repair-services-thumbnail-carousel" alt="" loading="lazy"
-                                                         srcset="styles/images/service-5-bg.jpg 390w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/03/service-5-bg-300x300.jpg 300w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/03/service-5-bg-150x150.jpg 150w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/03/service-5-bg-370x370.jpg 370w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/03/service-5-bg-178x179.jpg 178w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/03/service-5-bg-100x100.jpg 100w"
-                                                         sizes="(max-width: 390px) 100vw, 390px">
+                                                    <img width="390" height="390" src="styles/images/services/service-gray-content-bg.jpg">
                                                 </div>
                                                 <div class="caption">
                                                     <div class="vert-wrap">
@@ -319,17 +347,75 @@
                                             </div>
                                             <div class="service hidden-xs">
                                                 <a class="image image-scale">
-                                                    <img width="390" height="390" src="styles/images/service-6-bg.jpg" class="attachment-car-repair-services-thumbnail-carousel size-car-repair-services-thumbnail-carousel" alt="" loading="lazy"
-                                                         srcset="styles/images/service-6-bg.jpg 390w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/03/service-6-bg-300x300.jpg 300w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/03/service-6-bg-150x150.jpg 150w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/03/service-6-bg-370x370.jpg 370w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/03/service-6-bg-178x179.jpg 178w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/03/service-6-bg-100x100.jpg 100w"
-                                                         sizes="(max-width: 390px) 100vw, 390px">
+                                                    <img width="390" height="390" src="styles/images/services/service-suspension-bg.jpg">
                                                 </a>
+                                            </div>
+                                        </div>
+
+                                        <div style="margin: 20px 0; width: 100%; float: left"></div>
+
+                                        <div class="services-block">
+                                            <div class="service hidden-xs">
+                                                <a class="image image-scale">
+                                                    <img width="390" height="390" src="styles/images/services/service-brake-bg.jpg">
+                                                </a>
+                                            </div>
+                                            <div class="service dark">
+                                                <div class="image">
+                                                    <img width="390" height="390" src="styles/images/services/service-gray-content-bg.jpg">
+                                                </div>
+                                                <div class="caption">
+                                                    <div class="vert-wrap">
+                                                        <div class="vert">
+                                                            <h3>Ремонт выхлопной системы</h3>
+                                                            <div class="text">Ремонт выхлопной системы при всей кажущейся простоте лучше все-таки доверить профессионалам</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="service hidden-xs">
+                                                <a class="image image-scale">
+                                                    <img width="390" height="390" src="styles/images/services/service-cooling-bg.jpg">
+                                                </a>
+                                            </div>
+                                            <div class="service">
+                                                <div class="image">
+                                                    <img width="390" height="390" src="styles/images/services/service-silver-content-bg.jpg">
+                                                </div>
+                                                <div class="caption">
+                                                    <div class="vert-wrap">
+                                                        <div class="vert">
+                                                            <h3>Ремонт тормозной системы</h3>
+                                                            <div class="text">Произведем ремонт тормозной системы и всех прилегающих узлов</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="service hidden-xs">
+                                                <a class="image image-scale">
+                                                    <img width="390" height="390" src="styles/images/services/service-exhaust-bg.jpg">
+                                                </a>
+                                            </div>
+                                            <div class="service">
+                                                <div class="image">
+                                                    <img width="390" height="390" src="styles/images/services/service-transparent-content-bg.png">
+                                                </div>
+                                                <div class="caption">
+                                                    <div class="vert-wrap">
+                                                        <div class="vert">
+                                                            <h3>Ремонт системы охлаждения</h3>
+                                                            <div class="text">Ремонт системы охлаждения двигателя нужно проводить, когда идут постоянные перегревы или же переохлаждения мотора</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </section>
-                            
-                            <section id="navigation-from-menu-work" class="elementor-section elementor-top-section elementor-element elementor-element-5d3abfe elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="5d3abfe" data-element_type="section"
+
+                            <section id="navigation-from-menu-work" class="elementor-section elementor-top-section elementor-element elementor-element-5d3abfe elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="5d3abfe"
+                                     data-element_type="section"
                                      data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
                                 <div class="elementor-container elementor-column-gap-no">
                                     <div class="elementor-row">
@@ -379,6 +465,52 @@
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+
+                            <section id="navigation-from-menu-stock" class="elementor-section elementor-top-section elementor-element elementor-element-90f60d6 elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default"
+                                     data-id="90f60d6" data-element_type="section"
+                                     data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+                                <div class="elementor-container elementor-column-gap-no">
+                                    <div class="elementor-row">
+                                        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d0a5f9d" data-id="d0a5f9d" data-element_type="column">
+                                            <div class="elementor-column-wrap elementor-element-populated">
+                                                <div class="elementor-widget-wrap">
+                                                    <div class="elementor-element elementor-element-afba501 elementor-widget elementor-widget-crs-icon-box" data-id="afba501" data-element_type="widget" data-widget_type="crs-icon-box.default">
+                                                        <div class="elementor-widget-container">
+                                                            <div class="block">
+                                                                <div class="container">
+                                                                    <div class="block-title">
+                                                                        <h2 class="block-title__title">Действующие акции</h2>
+                                                                        <br>
+                                                                    </div>
+                                                                    <div class="box01-listing">
+                                                                        <div class="row">
+                                                                            <?php
+                                                                            $imagesPath = "styles/images/stock";
+                                                                            $images = scandir($imagesPath);
+                                                                            shuffle($images);
+
+                                                                            foreach ($images as $image) {
+                                                                                if ($image == '.' || $image == '..') {
+                                                                                    continue;
+                                                                                }
+
+                                                                                echo "<a class='image-scale'><div class='col-sm-4 stock-wrap'>";
+                                                                                echo sprintf("<img  src='%s/%s' />", $imagesPath, $image);
+                                                                                echo "</div></a>";
+                                                                            }
+                                                                            ?>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -476,7 +608,8 @@
                                 </div>
                             </section>
 
-                            <section id="navigation-from-menu-guarantee" class="elementor-section elementor-top-section elementor-element elementor-element-fcfd09c elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="fcfd09c" data-element_type="section"
+                            <section id="navigation-from-menu-guarantee" class="elementor-section elementor-top-section elementor-element elementor-element-fcfd09c elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default"
+                                     data-id="fcfd09c" data-element_type="section"
                                      data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
                                 <div class="elementor-container elementor-column-gap-no">
                                     <div class="elementor-row">
@@ -522,7 +655,6 @@
                                                                     </div>
                                                                 </div>
                                                             </div>
-
                                                         </div>
                                                     </div>
                                                 </div>
@@ -532,7 +664,8 @@
                                 </div>
                             </section>
 
-                            <section id="navigation-from-menu-comment" class="elementor-section elementor-top-section elementor-element elementor-element-6e0b4e0 elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="6e0b4e0" data-element_type="section"
+                            <section id="navigation-from-menu-comment" class="elementor-section elementor-top-section elementor-element elementor-element-6e0b4e0 elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default"
+                                     data-id="6e0b4e0" data-element_type="section"
                                      data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
                                 <div class="elementor-container elementor-column-gap-no">
                                     <div class="elementor-row">
@@ -542,51 +675,17 @@
                                                     <div class="elementor-element elementor-element-4b4a845 elementor-widget elementor-widget-crs_testimonials" data-id="4b4a845" data-element_type="widget"
                                                          data-settings="{&quot;slides_to_show&quot;:1,&quot;slides_to_scroll&quot;:1,&quot;autoplay_speed&quot;:2500}" data-widget_type="crs_testimonials.default">
                                                         <div class="elementor-widget-container">
-                                                            <div class="block section-bg-wrapper overflow-hidden">
-                                                                <div class="container-fluid position-relative">
-                                                                    <div class="section-blog section-blog__color02">
-                                                                        <div class="testimonials-carousel slick-slider"
-                                                                             data-testimonialslider="{&quot;slides_to_show&quot;:1,&quot;slides_to_scroll&quot;:1,&quot;infinite&quot;:true,&quot;autoplay&quot;:true,&quot;autoplay_speed&quot;:2500,&quot;arrows&quot;:false,&quot;dots&quot;:true,&quot;fade&quot;:false}">
-                                                                            <div class="item text-center">
-                                                                                <div class="item__img">
-                                                                                    <img width="178" height="179" src="styles/images/section-blog-img01.jpg" class="attachment-car-repair-services-testimonial-2 size-car-repair-services-testimonial-2" alt="" loading="lazy"
-                                                                                         srcset="styles/images/section-blog-img01.jpg 178w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/06/section-blog-img01-150x150.jpg 150w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/06/section-blog-img01-100x100.jpg 100w"
-                                                                                         sizes="(max-width: 178px) 100vw, 178px">
-                                                                                    <span class="icon"></span>
-                                                                                </div>
-                                                                                <div class="item__description">
-                                                                                    <p>Я поехала туда по совету своих друзей, чтобы отремонтировать автомобиль после ДТП. Автомобиль получил серьезные повреждения. Они дали мне лучшую оценку стоимости ремонта, и работа была сделана очень быстро, а главное качественно!</p>
-                                                                                </div>
-                                                                                <div class="item__autor"><span class="color">Светлана</span> Предприниматель</div>
-                                                                            </div>
-                                                                            <div class="item text-center">
-                                                                                <div class="item__img">
-                                                                                    <img width="178" height="179" src="styles/images/testimonial1-178x179.jpg" class="attachment-car-repair-services-testimonial-2 size-car-repair-services-testimonial-2" alt="" loading="lazy"
-                                                                                         srcset="styles/images/testimonial1-178x179.jpg 178w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/06/testimonial1-298x300.jpg 298w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/06/testimonial1-150x150.jpg 150w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/06/testimonial1-488x491.jpg 488w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/06/testimonial1-390x390.jpg 390w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/06/testimonial1-370x370.jpg 370w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/06/testimonial1-300x300.jpg 300w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/06/testimonial1-100x100.jpg 100w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/06/testimonial1.jpg 512w"
-                                                                                         sizes="(max-width: 178px) 100vw, 178px">
-                                                                                    <span class="icon"></span>
-                                                                                </div>
-                                                                                <div class="item__description">
-                                                                                    <p>Станция очень понравилась. Для мастеров ремонт любой сложности по плечу, как в моём случае. Запчасти привёз свои, но и с этим у них нет проблем. Качество высокое!</p>
-                                                                                </div>
-                                                                                <div class="item__autor"><span class="color">Алексей</span> Инженер</div>
-                                                                            </div>
-                                                                            <div class="item text-center">
-                                                                                <div class="item__img">
-                                                                                    <img width="178" height="179" src="styles/images/testimonial2-178x179.jpg" class="attachment-car-repair-services-testimonial-2 size-car-repair-services-testimonial-2" alt="" loading="lazy"
-                                                                                         srcset="styles/images/testimonial2-178x179.jpg 178w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/06/testimonial2-298x300.jpg 298w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/06/testimonial2-150x150.jpg 150w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/06/testimonial2-488x491.jpg 488w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/06/testimonial2-390x390.jpg 390w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/06/testimonial2-370x370.jpg 370w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/06/testimonial2-300x300.jpg 300w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/06/testimonial2-100x100.jpg 100w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/06/testimonial2.jpg 512w"
-                                                                                         sizes="(max-width: 178px) 100vw, 178px">
-                                                                                    <span class="icon"></span>
-                                                                                </div>
-                                                                                <div class="item__description">
-                                                                                    <p>Сказал заменить ремень натяжителя из-за частого писка после предыдущей замены ремня в другом сервисе. Они осмотрелись и сказали: «Нет, заберите ремень и попросите новый по гарантии». После установки нового ремня оказалось, что они были правы.</p>
-                                                                                </div>
-                                                                                <div class="item__autor"><span class="color">Виктор</span> Таксист</div>
-                                                                            </div>
+                                                            <div class="block section-bg-wrapper overflow-hidden" style="padding: 15px;">
+                                                                <div class="row">
+                                                                    <div class="col-md-4">
+                                                                        <div style="height:800px;overflow:hidden;position:relative;">
+                                                                            <iframe style="width:100%;height:100%;border:1px solid #e6e6e6;border-radius:8px;box-sizing:border-box" src="https://yandex.ru/maps-reviews-widget/92648585237?comments"></iframe>
                                                                         </div>
                                                                     </div>
-                                                                    <div class="btn-comments-block">
-                                                                        <a class="btn btn-border btn-comments" target="_blank" href="https://yandex.ru/maps/org/avtosparta/92648585237/reviews/?ll=44.994778%2C53.155661&z=14"><span>Больше отзывов на Яндекс</span></a>
+                                                                    <div class="col-md-8">
+                                                                        <div class="map-wrap" style="height:800px;overflow:hidden;position:relative;">
+                                                                            <iframe src="https://yandex.ru/map-widget/v1/?z=12&ol=biz&oid=92648585237" width="560" height="800" frameborder="0" style="border-radius:8px"></iframe>
+                                                                        </div>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -616,9 +715,9 @@
                                                                             <div class="text-appointment">
                                                                                 <h2 class="h-lg">Записаться <span class="color">на ремонт или диагностику</span></h2>
                                                                                 <p class="info">Ваш специалист по ремонту автомобиля</p>
-                                                                                <h2 class="h-phone"><a href="tel: 89379177551" style="color: #fff">8-<span class="code">937</span>-917-75-51</a></h2>
+                                                                                <h2 class="h-phone"><a href="tel: 89374184964" style="color: #fff">8-<span class="code">937</span>-418-49-64</a></h2>
                                                                                 <div>
-                                                                                    <a class="btn btn-border btn-invert" href="tel: 89379177551"><span>Позвонить</span></a>
+                                                                                    <a class="btn btn-border btn-invert" href="tel: 89374184964"><span>Позвонить</span></a>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -669,8 +768,8 @@
     </div>
 </div>
 <div class="back-to-top" style="bottom: 15px;"><a href="#top">
-    <span class="icon icon-arrow_up"></span>
-</a></div>
+        <span class="icon icon-arrow_up"></span>
+    </a></div>
 <script type="text/javascript" src="js/main.min.js"></script>
 </body>
 </html>

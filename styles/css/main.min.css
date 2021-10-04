@@ -32553,6 +32553,10 @@ input.input-text.qty {
 
 header .header-right-bottom {
     margin-right: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    align-items: center;
 }
 
 .woocommerce .products .prd-info .star-rating, .woocommerce .product .prd-info .star-rating {
@@ -35547,7 +35551,7 @@ button#place_order, .btn-invert {
 
 .social-links ul li {
     display: inline-block;
-    margin: 0 7px 5px 0;
+    margin: 0 16px 5px 0;
     list-style: none;
     text-align: center
 }
@@ -35559,18 +35563,34 @@ button#place_order, .btn-invert {
 }
 
 .social-links ul li:last-child {
-    margin-right: 0
+    margin-right: 0;
 }
 
 .social-links ul li a {
     font-size: 45px;
-    color: #ec3542;
+    color: #fff !important;
     text-decoration: none;
     cursor: pointer;
     -webkit-transition: color 0.3s ease;
     -moz-transition: color 0.3s ease;
     -ms-transition: color 0.3s ease;
     -o-transition: color 0.3s ease
+}
+
+.social-links ul li a:hover {
+    color: #ec3542 !important;
+}
+
+.header-right-bottom .social-links ul li a {
+    font-size: 34px;
+}
+
+.header-right-bottom .social-links ul li a.vk {
+    font-size: 38px;
+}
+
+.header-right-bottom .social-links ul li a.ok {
+    font-size: 32px;
 }
 
 @media screen and (max-width: 767px) {
@@ -36530,10 +36550,10 @@ header.page-header .appointment:after, .modal-header .appointment:after {
         display: block;
         position: relative;
         overflow: hidden;
-        font-size: 15px;
+        font-size: 20px;
         line-height: 23px;
         font-family: 'Poppins', sans-serif;
-        font-weight: 600;
+        font-weight: bold;
         text-transform: uppercase;
         padding: 18px 15px 18px;
         text-decoration: none;
@@ -43208,13 +43228,11 @@ form.quote-form p {
 @media (min-width: 768px) {
     .image-scale {
         position: relative;
-        overflow: hidden;
         display: block
     }
 
     .image-scale > a {
         display: block;
-        overflow: hidden
     }
 
     .image-scale img {
@@ -43230,8 +43248,8 @@ form.quote-form p {
     }
 
     .image-scale:hover img {
-        -webkit-transform: scale3d(1.1, 1.1, 1) rotate(0.0001deg);
-        transform: scale3d(1.1, 1.1, 1) rotate(0.0001deg)
+        -webkit-transform: scale3d(1.03, 1.03, 1) rotate(0.0001deg);
+        transform: scale3d(1.03, 1.03, 1) rotate(0.0001deg)
     }
 }
 
