@@ -89,7 +89,7 @@
     </div>
 </nav>
 
-<div id="loader-wrapper" style="display: none;">
+<div id="loader-wrapper" style="display: block;">
     <div class="loader">
         <div class="line"></div>
         <div class="line"></div>
@@ -677,12 +677,12 @@
                                                         <div class="elementor-widget-container">
                                                             <div class="block section-bg-wrapper overflow-hidden" style="padding: 15px;">
                                                                 <div class="row">
-                                                                    <div class="col-md-4">
+                                                                    <div class="col-md-3">
                                                                         <div style="height:800px;overflow:hidden;position:relative;">
                                                                             <iframe style="width:100%;height:100%;border:1px solid #e6e6e6;border-radius:8px;box-sizing:border-box" src="https://yandex.ru/maps-reviews-widget/92648585237?comments"></iframe>
                                                                         </div>
                                                                     </div>
-                                                                    <div class="col-md-8">
+                                                                    <div class="col-md-9">
                                                                         <div class="map-wrap" style="height:800px;overflow:hidden;position:relative;">
                                                                             <iframe src="https://yandex.ru/map-widget/v1/?z=12&ol=biz&oid=92648585237" width="560" height="800" frameborder="0" style="border-radius:8px"></iframe>
                                                                         </div>
