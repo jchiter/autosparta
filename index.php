@@ -281,6 +281,52 @@
                                 </div>
                             </section>
 
+                            <section id="navigation-from-menu-stock" class="elementor-section elementor-top-section elementor-element elementor-element-90f60d6 elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default"
+                                     data-id="90f60d6" data-element_type="section"
+                                     data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+                                <div class="elementor-container elementor-column-gap-no">
+                                    <div class="elementor-row">
+                                        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d0a5f9d" data-id="d0a5f9d" data-element_type="column">
+                                            <div class="elementor-column-wrap elementor-element-populated">
+                                                <div class="elementor-widget-wrap">
+                                                    <div class="elementor-element elementor-element-afba501 elementor-widget elementor-widget-crs-icon-box" data-id="afba501" data-element_type="widget" data-widget_type="crs-icon-box.default">
+                                                        <div class="elementor-widget-container">
+                                                            <div class="block">
+                                                                <div class="container">
+                                                                    <div class="block-title">
+                                                                        <h2 class="block-title__title">Действующие скидки и акции</h2>
+                                                                        <br>
+                                                                    </div>
+                                                                    <div class="box01-listing">
+                                                                        <div class="row">
+                                                                            <?php
+                                                                            $imagesPath = "styles/images/stock";
+                                                                            $images = scandir($imagesPath);
+                                                                            shuffle($images);
+
+                                                                            foreach ($images as $image) {
+                                                                                if ($image == '.' || $image == '..') {
+                                                                                    continue;
+                                                                                }
+
+                                                                                echo "<a class='image-scale'><div class='col-sm-4 stock-wrap'>";
+                                                                                echo sprintf("<img  src='%s/%s' />", $imagesPath, $image);
+                                                                                echo "</div></a>";
+                                                                            }
+                                                                            ?>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+
                             <section id="navigation-from-menu-about" class="elementor-section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
                                 <div class="block">
                                     <div class="container">
@@ -292,8 +338,8 @@
                                         <div class="services-block">
                                             <span style="font-size: 22px; line-height: 1.5em;">
                                                 Компания "АвтоСпарта" существует на рынке более 10 лет и оказывает большой спектр услуг по техническому и постгарантийному обслуживанию автомобилей,
-                                                диагностике и ремонту ходовой части, двигателей, КПП, электрооборудования, электронных систем, систем кондиционирования, кузовным и покрасочным работам,
-                                                производит работы по замене стекол, сварочные работы, шиномонтажные работы, а также другие виды работ.<br>
+                                                диагностике и ремонту ходовой части, двигателей, КПП, электрооборудования, электронных систем, систем кондиционирования, установка сигнализаций, установка парктроника, установка автозвука,
+                                                сварочные работы, а также другие виды работ.<br>
                                                 Работы проводятся квалифицированными специалистами, прошедшими обучение в центрах по подготовке специалистов и имеющих большой опыт обслуживания автомобилей иностранного производства на СТО официальных дилеров.
                                             </span><br><br>
                                             <div class="service">
@@ -340,7 +386,7 @@
                                                     <div class="vert-wrap">
                                                         <div class="vert">
                                                             <h3>Замена технических жидкостей</h3>
-                                                            <div class="text">Нет ничего проще, чем слить старые жидкости, промыть, а затем залить качественные и свежие</div>
+                                                            <div class="text">Произведем быстро и качественно замену моторного масла, трансмиссионного масла, антифриза, жидкости гидроусилителя, тормозной жидкости</div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -368,7 +414,7 @@
                                                     <div class="vert-wrap">
                                                         <div class="vert">
                                                             <h3>Ремонт выхлопной системы</h3>
-                                                            <div class="text">Ремонт выхлопной системы при всей кажущейся простоте лучше все-таки доверить профессионалам</div>
+                                                            <div class="text">АвтоСпарта выполнит для вас ремонт катализатора, ремонт и замена коллектора, ремонт сажевого фильтра, ремонт гофры, ремонт глушителя, также возможен тюнинг выхлопной системы</div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -404,7 +450,8 @@
                                                     <div class="vert-wrap">
                                                         <div class="vert">
                                                             <h3>Ремонт системы охлаждения</h3>
-                                                            <div class="text">Ремонт системы охлаждения двигателя нужно проводить, когда идут постоянные перегревы или же переохлаждения мотора</div>
+                                                            <div class="text">Поломка составляющих системы охлаждения может привести к нарушению работы двигателя или к его поломке.
+                                                                Именно поэтому мы рекомендуем следить за системой охлаждения и своевременно производить ее ремонт и замену изношенных деталей</div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -465,52 +512,6 @@
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </section>
-
-                            <section id="navigation-from-menu-stock" class="elementor-section elementor-top-section elementor-element elementor-element-90f60d6 elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default"
-                                     data-id="90f60d6" data-element_type="section"
-                                     data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
-                                <div class="elementor-container elementor-column-gap-no">
-                                    <div class="elementor-row">
-                                        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d0a5f9d" data-id="d0a5f9d" data-element_type="column">
-                                            <div class="elementor-column-wrap elementor-element-populated">
-                                                <div class="elementor-widget-wrap">
-                                                    <div class="elementor-element elementor-element-afba501 elementor-widget elementor-widget-crs-icon-box" data-id="afba501" data-element_type="widget" data-widget_type="crs-icon-box.default">
-                                                        <div class="elementor-widget-container">
-                                                            <div class="block">
-                                                                <div class="container">
-                                                                    <div class="block-title">
-                                                                        <h2 class="block-title__title">Действующие акции</h2>
-                                                                        <br>
-                                                                    </div>
-                                                                    <div class="box01-listing">
-                                                                        <div class="row">
-                                                                            <?php
-                                                                            $imagesPath = "styles/images/stock";
-                                                                            $images = scandir($imagesPath);
-                                                                            shuffle($images);
-
-                                                                            foreach ($images as $image) {
-                                                                                if ($image == '.' || $image == '..') {
-                                                                                    continue;
-                                                                                }
-
-                                                                                echo "<a class='image-scale'><div class='col-sm-4 stock-wrap'>";
-                                                                                echo sprintf("<img  src='%s/%s' />", $imagesPath, $image);
-                                                                                echo "</div></a>";
-                                                                            }
-                                                                            ?>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -722,9 +723,8 @@
                                                                             </div>
                                                                         </div>
                                                                         <div class="col-md-6">
-                                                                            <div class="img-move animation animated fadeInRight" data-animation="fadeInRight" data-animation-delay="0s">
-                                                                                <img width="745" height="253" src="styles/images/img-car-move.png" class="attachment-full size-full" alt="" loading="lazy"
-                                                                                     srcset="https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/03/img-car-move.png 745w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/03/img-car-move-300x102.png 300w, https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/uploads/sites/5/2017/03/img-car-move-600x204.png 600w"
+                                                                            <div class="img-move animation animated fadeInRight" data-animation="fadeInRight" data-animation-delay="2s">
+                                                                                <img width="745" height="253" src="styles/images/bmw.png" class="attachment-full size-full" alt="" loading="lazy"
                                                                                      sizes="(max-width: 745px) 100vw, 745px">
                                                                             </div>
                                                                         </div>
@@ -767,9 +767,17 @@
         </div>
     </div>
 </div>
-<div class="back-to-top" style="bottom: 15px;"><a href="#top">
+<div class="back-to-top" style="bottom: 100px;">
+    <a href="#top">
         <span class="icon icon-arrow_up"></span>
-    </a></div>
+    </a>
+</div>
+
+<div class="floating-phone" style="bottom: 15px;">
+    <a href="tel: 89374184964">
+        <span class="icon icon-phone"></span>
+    </a>
+</div>
 <script type="text/javascript" src="js/main.min.js"></script>
 </body>
 </html>
