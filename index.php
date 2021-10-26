@@ -150,7 +150,7 @@
                         <button type="button" class="navbar-toggle" style="display: none;"><i class="icon icon-lines-menu"></i></button>
                     </div>
                     <div class="header-right-bottom">
-                        <div class="social-links">
+                        <div class="social-links" style="margin-right: 2em">
                             <ul>
                                 <li><a class="vk" target="_blank" href="https://vk.com/stoavtosparta"><i class="fab fa-vk"></i></a></li>
                                 <li><a class="" target="_blank" href="https://www.instagram.com/sto_autosparta_penza"><i class="fab fa-instagram"></i></a></li>
