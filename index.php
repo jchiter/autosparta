@@ -3,12 +3,12 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-    <link type="text/css" rel="stylesheet" href="styles/css/fonts.css">
-    <link type="text/css" rel="stylesheet" href="styles/css/main.min.css">
-    <link type="text/css" rel="stylesheet" href="styles/css/index.css">
-    <link type="text/css" rel="stylesheet" href="styles/css/red.css" media="all">
-    <link type="text/css" rel="stylesheet" href="styles/css/woocommerce-smallscreen.css" media="only screen and (max-width: 768px)">
-    <link type="text/css" rel="stylesheet" href="styles/fontawesome/css/all.css">
+    <link type="text/css" rel="stylesheet" href="styles/css/fonts.css?v=<?=time()?>">
+    <link type="text/css" rel="stylesheet" href="styles/css/main.min.css?v=<?=time()?>">
+    <link type="text/css" rel="stylesheet" href="styles/css/index.css?v=<?=time()?>">
+    <link type="text/css" rel="stylesheet" href="styles/css/red.css?v=<?=time()?>" media="all">
+    <link type="text/css" rel="stylesheet" href="styles/css/woocommerce-smallscreen.css?v=<?=time()?>" media="only screen and (max-width: 768px)">
+    <link type="text/css" rel="stylesheet" href="styles/fontawesome/css/all.css?v=<?=time()?>">
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" href="styles/images/favicon.ico" type="image/x-icon">
@@ -74,7 +74,7 @@
         };
     </script>
 
-    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/jquery.min.js?v=<?=time()?>"></script>
 </head>
 
 <body class="home page-template-default page page-id-56 layout-1 theme-car-repair-services woocommerce-js elementor-default elementor-kit-1944 elementor-page elementor-page-56 color-red e--ua-blink e--ua-opera e--ua-webkit" data-elementor-device-mode="">
@@ -798,6 +798,6 @@
         <span class="icon icon-phone"></span>
     </a>
 </div>
-<script type="text/javascript" src="js/main.min.js"></script>
+<script type="text/javascript" src="js/main.min.js?v=<?=time()?>"></script>
 </body>
 </html>
