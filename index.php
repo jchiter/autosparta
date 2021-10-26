@@ -11,7 +11,7 @@
     <link type="text/css" rel="stylesheet" href="styles/fontawesome/css/all.css">
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="shortcut icon" href="https://smartdata.tonytemplates.com/car-repair-service-v4/car1/wp-content/themes/car-repair-services/images/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="styles/images/favicon.ico" type="image/x-icon">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 
     <title>АвтоСпарта - cтанция технического обслуживания в г. Пензе</title>
@@ -27,8 +27,6 @@
             "ajax_nonce_coupon": "2d790efe6f",
             "ajax_nonce_testimonial": "533da36f11",
             "ajax_nonce_gallery": "6b099e8ac7",
-            "ajax_url": "https:\/\/smartdata.tonytemplates.com\/car-repair-service-v4\/car1\/wp-admin\/admin-ajax.php",
-            "loader_img": "https:\/\/smartdata.tonytemplates.com\/car-repair-service-v4\/car1\/wp-content\/themes\/car-repair-services\/images\/ajax-loader.gif",
             "site_preloader_timeout": "500"
         };
         var ajax_slickslider = {"autoplay": "true", "autoplay_speed": "7000", "arrows": "true", "dots": "false", "fade": "true", "speed": "500", "pause_on_hover": "true", "pause_on_dots_hover": "true"};
@@ -79,7 +77,7 @@
     <script type="text/javascript" src="js/jquery.min.js"></script>
 </head>
 
-<body class="home page-template-default page page-id-56 wp-embed-responsive layout-1 theme-car-repair-services woocommerce-js elementor-default elementor-kit-1944 elementor-page elementor-page-56 color-red e--ua-blink e--ua-opera e--ua-webkit" data-elementor-device-mode="">
+<body class="home page-template-default page page-id-56 layout-1 theme-car-repair-services woocommerce-js elementor-default elementor-kit-1944 elementor-page elementor-page-56 color-red e--ua-blink e--ua-opera e--ua-webkit" data-elementor-device-mode="">
 
 <nav class="panel-menu" id="mobile-menu" style="display: none;">
     <div class="mmpanels">
@@ -219,7 +217,7 @@
                     <div class="elementor-inner">
                         <div class="elementor-section-wrap">
                             <section class="elementor-section elementor-top-section elementor-element elementor-element-bf3fa0b elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="bf3fa0b" data-element_type="section"
-                                     data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="margin-bottom: 120px;">
+                                     data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="margin-bottom: 3em;">
                                 <div class="elementor-container elementor-column-gap-no">
                                     <div class="elementor-row">
                                         <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-aa37ef8" data-id="aa37ef8" data-element_type="column">
@@ -281,24 +279,180 @@
                                 </div>
                             </section>
 
-                            <section id="navigation-from-menu-stock" class="elementor-section elementor-top-section elementor-element elementor-element-90f60d6 elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default"
-                                     data-id="90f60d6" data-element_type="section"
+                            <section id="mobile-socials" class="elementor-section">
+                                <div class="social-links">
+                                    <ul>
+                                        <li><a class="vk" target="_blank" href="https://vk.com/stoavtosparta"><i class="fab fa-vk"></i></a></li>
+                                        <li><a class="" target="_blank" href="https://www.instagram.com/sto_autosparta_penza"><i class="fab fa-instagram"></i></a></li>
+                                        <li><a class="ok" target="_blank" href="https://ok.ru/profile/578199531608"><i class="fab fa-odnoklassniki"></i></a></li>
+                                        <li><a class="" target="_blank" href="viber://add?number=79374184964"><i class="fab fa-viber"></i></a></li>
+                                        <li><a class="" target="_blank" href="https://wa.me/79273601907"><i class="fab fa-whatsapp"></i></a></li>
+                                    </ul>
+                                </div>
+                            </section>
+
+                            <section id="navigation-from-menu-about" class="elementor-section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+                                <div class="block">
+                                    <div class="container">
+                                        <div class="block-title">
+                                            <h2 class="block-title__title">СТО АВТОСПАРТА</h2>
+                                            <div class="block-title__description">Мы предлагаем полный комплекс услуг по диагностике и ремонту автомобилей</div>
+                                            <div class="title-separator"></div>
+                                        </div>
+                                        <div class="services-block">
+                                            <div class="service dark">
+                                                <div class="image">
+                                                    <img width="390" height="390" class="transparent" src="styles/images/services/service-brake-bg.jpg">
+                                                </div>
+                                                <div class="caption">
+                                                    <div class="vert-wrap">
+                                                        <div class="vert">
+                                                            <h3>Ремонт тормозной системы</h3>
+                                                            <div class="text">Производим ремонт тормозной системы и всех прилегающих узлов</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="service">
+                                                <div class="image white">
+                                                    <img width="390" height="390" class="transparent" src="styles/images/services/service-suspension-bg.jpg">
+                                                </div>
+                                                <div class="caption">
+                                                    <div class="vert-wrap">
+                                                        <div class="vert">
+                                                            <h3>Ремонт подвески и ходовой</h3>
+                                                            <div class="text">Производим ремонт ремонт любой сложности по ходовой части и подвески автомобиля</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="service dark">
+                                                <div class="image">
+                                                    <img width="390" height="390" class="transparent" src="styles/images/services/service-engine-bg.jpg">
+                                                </div>
+                                                <div class="caption">
+                                                    <div class="vert-wrap">
+                                                        <div class="vert">
+                                                            <h3>Ремонт двигателя и КПП</h3>
+                                                            <div class="text">Производим ремонт двигателя и коробки переключения передач качественно и в кротчайшие сроки</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="services-block">
+                                            <div class="service">
+                                                <div class="image white">
+                                                    <img width="390" height="390" class="transparent" src="styles/images/services/service-electric-bg.jpg">
+                                                </div>
+                                                <div class="caption">
+                                                    <div class="vert-wrap">
+                                                        <div class="vert">
+                                                            <h3>Автоэлектрика</h3>
+                                                            <div class="text">Производим комппьютерную диагностику, качественный ремонт электрооборудования, электронных систем, систем кондиционирования, установку сигнализаций, установку парктроника, установку автозвука</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="service hidden-xs">
+                                                <a class="image image-scale">
+                                                    <img width="390" height="390" src="styles/images/services/service-like-bg.jpg">
+                                                </a>
+                                            </div>
+                                            <div class="service">
+                                                <div class="image white">
+                                                    <img width="390" height="390" class="transparent" src="styles/images/services/service-fluids-bg.jpg">
+                                                </div>
+                                                <div class="caption">
+                                                    <div class="vert-wrap">
+                                                        <div class="vert">
+                                                            <h3>Замена технических жидкостей</h3>
+                                                            <div class="text">Производим быстро и качественно замену моторного масла, трансмиссионного масла, антифриза, жидкости гидроусилителя, тормозной жидкости</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="services-block">
+                                            <div class="service dark">
+                                                <div class="image">
+                                                    <img width="390" height="390" class="transparent" src="styles/images/services/service-exhaust-bg.jpg">
+                                                </div>
+                                                <div class="caption">
+                                                    <div class="vert-wrap">
+                                                        <div class="vert">
+                                                            <h3>Ремонт выхлопной системы</h3>
+                                                            <div class="text">Производим ремонт и замену катализатора, коллектора, сажевого фильтра, гофры, глушителя, также возможен тюнинг выхлопной системы</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="service">
+                                                <a href="tel: 89374184964" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; cursor: pointer; z-index: 9999;"></a>
+                                                <div class="image white">
+                                                    <img width="390" height="390" class="transparent" src="styles/images/services/service-phone-bg.jpg">
+                                                </div>
+                                                <div class="caption">
+                                                    <div class="vert-wrap">
+                                                        <div class="vert">
+                                                            <h3>Позвоните нам<br>8 937 418 49 64</h3>
+                                                            <div class="text">На все интересующие вас вопросы мы с удовольствием ответим по телефону</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="service dark">
+                                                <div class="image">
+                                                    <img width="390" height="390" class="transparent" src="styles/images/services/service-cooling-bg.jpg">
+                                                </div>
+                                                <div class="caption">
+                                                    <div class="vert-wrap">
+                                                        <div class="vert">
+                                                            <h3>Ремонт системы охлаждения</h3>
+                                                            <div class="text">Производим ремонт и диагностику системы охлаждения, замену изношенных деталей</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="block">
+                                    <div class="container">
+                                        <div class="company-about">
+                                            <p>
+                                                Компания "АвтоСпарта" существует на рынке более 10 лет и оказывает большой спектр услуг по техническому и постгарантийному обслуживанию автомобилей,
+                                                диагностике и ремонту ходовой части, двигателей, КПП, электрооборудования, электронных систем, систем кондиционирования, установка сигнализаций, установка парктроника, установка автозвука,
+                                                сварочные работы, а также другие виды работ.<br>
+                                                Работы проводятся квалифицированными специалистами, прошедшими обучение в центрах по подготовке специалистов и имеющих большой опыт обслуживания автомобилей иностранного производства на СТО официальных дилеров.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+
+                            <section id="navigation-from-menu-stock" class="elementor-section elementor-top-section elementor-element elementor-element-814327d elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="814327d" data-element_type="section"
                                      data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
                                 <div class="elementor-container elementor-column-gap-no">
                                     <div class="elementor-row">
-                                        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d0a5f9d" data-id="d0a5f9d" data-element_type="column">
+                                        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e1d913c" data-id="e1d913c" data-element_type="column">
                                             <div class="elementor-column-wrap elementor-element-populated">
                                                 <div class="elementor-widget-wrap">
-                                                    <div class="elementor-element elementor-element-afba501 elementor-widget elementor-widget-crs-icon-box" data-id="afba501" data-element_type="widget" data-widget_type="crs-icon-box.default">
+                                                    <div class="elementor-element elementor-element-066866c elementor-widget elementor-widget-electrician-brands-2" data-id="066866c" data-element_type="widget" data-widget_type="electrician-brands-2.default">
                                                         <div class="elementor-widget-container">
-                                                            <div class="block">
+                                                            <div class="block bg-2">
                                                                 <div class="container">
                                                                     <div class="block-title">
-                                                                        <h2 class="block-title__title">Действующие скидки и акции</h2>
+                                                                        <h2 class="block-title__title">Действующие <span class="color">скидки и акции</span></h2>
+                                                                        <div class="block-title__description">Ознакомьтесь с нашей действующей системой скидок</div>
                                                                         <br>
                                                                     </div>
-                                                                    <div class="box01-listing">
-                                                                        <div class="row">
+                                                                </div>
+                                                                <div class="container-fluid">
+                                                                    <div class="promo02-wrapper">
+                                                                        <div class="row stock-carousel">
                                                                             <?php
                                                                             $imagesPath = "styles/images/stock";
                                                                             $images = scandir($imagesPath);
@@ -309,149 +463,15 @@
                                                                                     continue;
                                                                                 }
 
-                                                                                echo "<a class='image-scale'><div class='col-sm-4 stock-wrap'>";
+                                                                                echo "<div class='col-sm-6 stock-wrap'><a class='image-scale'>";
                                                                                 echo sprintf("<img  src='%s/%s' />", $imagesPath, $image);
-                                                                                echo "</div></a>";
+                                                                                echo "</a></div>";
                                                                             }
                                                                             ?>
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                             </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </section>
-
-                            <section id="navigation-from-menu-about" class="elementor-section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
-                                <div class="block">
-                                    <div class="container">
-                                        <div class="block-title">
-                                            <h2 class="block-title__title">Что мы делаем?</h2>
-                                            <div class="block-title__description">Мы предлагаем полный комплекс услуг по диагностике и ремонту автомобилей</div>
-                                            <div class="title-separator"></div>
-                                        </div>
-                                        <div class="services-block">
-                                            <span style="font-size: 22px; line-height: 1.5em;">
-                                                Компания "АвтоСпарта" существует на рынке более 10 лет и оказывает большой спектр услуг по техническому и постгарантийному обслуживанию автомобилей,
-                                                диагностике и ремонту ходовой части, двигателей, КПП, электрооборудования, электронных систем, систем кондиционирования, установка сигнализаций, установка парктроника, установка автозвука,
-                                                сварочные работы, а также другие виды работ.<br>
-                                                Работы проводятся квалифицированными специалистами, прошедшими обучение в центрах по подготовке специалистов и имеющих большой опыт обслуживания автомобилей иностранного производства на СТО официальных дилеров.
-                                            </span><br><br>
-                                            <div class="service">
-                                                <div class="image">
-                                                    <img width="390" height="390" src="styles/images/services/service-silver-content-bg.jpg">
-                                                </div>
-                                                <div class="caption">
-                                                    <div class="vert-wrap">
-                                                        <div class="vert">
-                                                            <h3>Ремонт двигателя и КПП</h3>
-                                                            <div class="text">Произведем ремонт двигателя и коробки переключения передач качественно и в кротчайшие сроки</div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="service hidden-xs">
-                                                <a class="image image-scale">
-                                                    <img width="390" height="390" src="styles/images/services/service-fluids-bg.jpg">
-                                                </a>
-                                            </div>
-                                            <div class="service">
-                                                <div class="image">
-                                                    <img width="390" height="390" src="styles/images/services/service-transparent-content-bg.png">
-                                                </div>
-                                                <div class="caption">
-                                                    <div class="vert-wrap">
-                                                        <div class="vert">
-                                                            <h3>Ремонт подвески и ходовой</h3>
-                                                            <div class="text">Возьмемся за любую работу по ходовой части</div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="service hidden-xs">
-                                                <a class="image image-scale">
-                                                    <img width="390" height="390" src="styles/images/services/service-engine-bg.jpg">
-                                                </a>
-                                            </div>
-                                            <div class="service dark">
-                                                <div class="image">
-                                                    <img width="390" height="390" src="styles/images/services/service-gray-content-bg.jpg">
-                                                </div>
-                                                <div class="caption">
-                                                    <div class="vert-wrap">
-                                                        <div class="vert">
-                                                            <h3>Замена технических жидкостей</h3>
-                                                            <div class="text">Произведем быстро и качественно замену моторного масла, трансмиссионного масла, антифриза, жидкости гидроусилителя, тормозной жидкости</div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="service hidden-xs">
-                                                <a class="image image-scale">
-                                                    <img width="390" height="390" src="styles/images/services/service-suspension-bg.jpg">
-                                                </a>
-                                            </div>
-                                        </div>
-
-                                        <div style="margin: 20px 0; width: 100%; float: left"></div>
-
-                                        <div class="services-block">
-                                            <div class="service hidden-xs">
-                                                <a class="image image-scale">
-                                                    <img width="390" height="390" src="styles/images/services/service-brake-bg.jpg">
-                                                </a>
-                                            </div>
-                                            <div class="service dark">
-                                                <div class="image">
-                                                    <img width="390" height="390" src="styles/images/services/service-gray-content-bg.jpg">
-                                                </div>
-                                                <div class="caption">
-                                                    <div class="vert-wrap">
-                                                        <div class="vert">
-                                                            <h3>Ремонт выхлопной системы</h3>
-                                                            <div class="text">АвтоСпарта выполнит для вас ремонт катализатора, ремонт и замена коллектора, ремонт сажевого фильтра, ремонт гофры, ремонт глушителя, также возможен тюнинг выхлопной системы</div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="service hidden-xs">
-                                                <a class="image image-scale">
-                                                    <img width="390" height="390" src="styles/images/services/service-cooling-bg.jpg">
-                                                </a>
-                                            </div>
-                                            <div class="service">
-                                                <div class="image">
-                                                    <img width="390" height="390" src="styles/images/services/service-silver-content-bg.jpg">
-                                                </div>
-                                                <div class="caption">
-                                                    <div class="vert-wrap">
-                                                        <div class="vert">
-                                                            <h3>Ремонт тормозной системы</h3>
-                                                            <div class="text">Произведем ремонт тормозной системы и всех прилегающих узлов</div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="service hidden-xs">
-                                                <a class="image image-scale">
-                                                    <img width="390" height="390" src="styles/images/services/service-exhaust-bg.jpg">
-                                                </a>
-                                            </div>
-                                            <div class="service">
-                                                <div class="image">
-                                                    <img width="390" height="390" src="styles/images/services/service-transparent-content-bg.png">
-                                                </div>
-                                                <div class="caption">
-                                                    <div class="vert-wrap">
-                                                        <div class="vert">
-                                                            <h3>Ремонт системы охлаждения</h3>
-                                                            <div class="text">Поломка составляющих системы охлаждения может привести к нарушению работы двигателя или к его поломке.
-                                                                Именно поэтому мы рекомендуем следить за системой охлаждения и своевременно производить ее ремонт и замену изношенных деталей</div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -679,13 +699,13 @@
                                                             <div class="block section-bg-wrapper overflow-hidden" style="padding: 15px;">
                                                                 <div class="row">
                                                                     <div class="col-md-3">
-                                                                        <div style="height:800px;overflow:hidden;position:relative;">
+                                                                        <div style="height:500px;overflow:hidden;position:relative;">
                                                                             <iframe style="width:100%;height:100%;border:1px solid #e6e6e6;border-radius:8px;box-sizing:border-box" src="https://yandex.ru/maps-reviews-widget/92648585237?comments"></iframe>
                                                                         </div>
                                                                     </div>
                                                                     <div class="col-md-9">
-                                                                        <div class="map-wrap" style="height:800px;overflow:hidden;position:relative;">
-                                                                            <iframe src="https://yandex.ru/map-widget/v1/?z=12&ol=biz&oid=92648585237" width="560" height="800" frameborder="0" style="border-radius:8px"></iframe>
+                                                                        <div class="map-wrap" style="height:500px;overflow:hidden;position:relative;">
+                                                                            <iframe src="https://yandex.ru/map-widget/v1/?z=12&ol=biz&oid=92648585237" frameborder="0" style="width: 100%; height: 500px; border-radius:8px"></iframe>
                                                                         </div>
                                                                     </div>
                                                                 </div>
