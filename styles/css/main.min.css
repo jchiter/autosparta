@@ -33737,8 +33737,9 @@ blockquote {
 
 @media (max-width: 767px) {
     .block-title .block-title__title {
-        font-size: 33px;
-        line-height: 40px
+        font-size: 29px;
+        line-height: 40px;
+        font-weight: bold;
     }
 
     .block-title .block-title__description {
@@ -40385,11 +40386,21 @@ h2 + .testimonials {
 }
 
 .services-block .service.dark {
-    color: #fff
+    color: #fff;
 }
 
 .services-block .service.dark h2, .services-block .service.dark h3, .services-block .service.dark h4 {
-    color: #ec3542
+    color: #ec3542;
+}
+
+@media screen and (max-width: 768px) {
+    .services-block .service.dark-mobile {
+        color: #fff;
+    }
+
+    .services-block .service.dark-mobile h2, .services-block .service.dark-mobile h3, .services-block .service.dark-mobile h4 {
+        color: #ec3542;
+    }
 }
 
 .vertical-tab-content h2, .vertical-tab-content h1 {
@@ -57537,7 +57548,8 @@ ol ol, ol ul, ul ol, ul ul, ul, ol {
 }
 
 section#mobile-socials {
-    margin-bottom: 3em;
+    background: #2d2d2d;
+    padding: 1em 0;
     display: none;
 }
 
@@ -57555,6 +57567,6 @@ section#mobile-socials {
     }
 
     section#mobile-socials .social-links ul li a {
-        color: #000 !important;
+        color: #fff !important;
     }
 }

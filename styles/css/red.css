@@ -440,9 +440,11 @@ body.color-red .calendar_wrap td#today {
     background-color: #000 !important;
 }
 
-body.color-red .services-block .image.white {
-    background-color: #cfcfcf !important;
-    opacity: 0.3;
+@media screen and (min-width: 768px) {
+    body.color-red .services-block .image.white {
+        background-color: #cfcfcf !important;
+        opacity: 0.3;
+    }
 }
 
 body.color-red .icon-star:before {

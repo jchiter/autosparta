@@ -217,7 +217,7 @@
                     <div class="elementor-inner">
                         <div class="elementor-section-wrap">
                             <section class="elementor-section elementor-top-section elementor-element elementor-element-bf3fa0b elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="bf3fa0b" data-element_type="section"
-                                     data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="margin-bottom: 3em;">
+                                     data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
                                 <div class="elementor-container elementor-column-gap-no">
                                     <div class="elementor-row">
                                         <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-aa37ef8" data-id="aa37ef8" data-element_type="column">
@@ -279,7 +279,8 @@
                                 </div>
                             </section>
 
-                            <section id="mobile-socials" class="elementor-section">
+                            <section id="mobile-socials" class="elementor-section elementor-top-section elementor-element elementor-element-bf3fa0b elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="bf3fa0b" data-element_type="section"
+                                     data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
                                 <div class="social-links">
                                     <ul>
                                         <li><a class="vk" target="_blank" href="https://vk.com/stoavtosparta"><i class="fab fa-vk"></i></a></li>
@@ -291,7 +292,7 @@
                                 </div>
                             </section>
 
-                            <section id="navigation-from-menu-about" class="elementor-section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+                            <section id="navigation-from-menu-about" class="elementor-section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="margin-top: 3em;">
                                 <div class="block">
                                     <div class="container">
                                         <div class="block-title">
@@ -302,18 +303,18 @@
                                         <div class="services-block">
                                             <div class="service dark">
                                                 <div class="image">
-                                                    <img width="390" height="390" class="transparent" src="styles/images/services/service-brake-bg.jpg">
+                                                    <img width="390" height="390" class="transparent" src="styles/images/services/service-engine-bg.jpg">
                                                 </div>
                                                 <div class="caption">
                                                     <div class="vert-wrap">
                                                         <div class="vert">
-                                                            <h3>Ремонт тормозной системы</h3>
-                                                            <div class="text">Производим ремонт тормозной системы и всех прилегающих узлов</div>
+                                                            <h3>Ремонт двигателя и КПП</h3>
+                                                            <div class="text">Производим ремонт двигателя и коробки переключения передач качественно и в кротчайшие сроки</div>
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="service">
+                                            <div class="service dark-mobile">
                                                 <div class="image white">
                                                     <img width="390" height="390" class="transparent" src="styles/images/services/service-suspension-bg.jpg">
                                                 </div>
@@ -328,13 +329,13 @@
                                             </div>
                                             <div class="service dark">
                                                 <div class="image">
-                                                    <img width="390" height="390" class="transparent" src="styles/images/services/service-engine-bg.jpg">
+                                                    <img width="390" height="390" class="transparent" src="styles/images/services/service-brake-bg.jpg">
                                                 </div>
                                                 <div class="caption">
                                                     <div class="vert-wrap">
                                                         <div class="vert">
-                                                            <h3>Ремонт двигателя и КПП</h3>
-                                                            <div class="text">Производим ремонт двигателя и коробки переключения передач качественно и в кротчайшие сроки</div>
+                                                            <h3>Ремонт тормозной системы</h3>
+                                                            <div class="text">Производим ремонт тормозной системы и всех прилегающих узлов</div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -342,7 +343,7 @@
                                         </div>
 
                                         <div class="services-block">
-                                            <div class="service">
+                                            <div class="service dark-mobile">
                                                 <div class="image white">
                                                     <img width="390" height="390" class="transparent" src="styles/images/services/service-electric-bg.jpg">
                                                 </div>
@@ -360,7 +361,7 @@
                                                     <img width="390" height="390" src="styles/images/services/service-like-bg.jpg">
                                                 </a>
                                             </div>
-                                            <div class="service">
+                                            <div class="service dark-mobile">
                                                 <div class="image white">
                                                     <img width="390" height="390" class="transparent" src="styles/images/services/service-fluids-bg.jpg">
                                                 </div>
@@ -389,7 +390,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="service">
+                                            <div class="service hidden-xs">
                                                 <a href="tel: 89374184964" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; cursor: pointer; z-index: 9999;"></a>
                                                 <div class="image white">
                                                     <img width="390" height="390" class="transparent" src="styles/images/services/service-phone-bg.jpg">
@@ -445,7 +446,7 @@
                                                             <div class="block bg-2">
                                                                 <div class="container">
                                                                     <div class="block-title">
-                                                                        <h2 class="block-title__title">Действующие <span class="color">скидки и акции</span></h2>
+                                                                        <h2 class="block-title__title">Действующие <span class="color">скидки</span></h2>
                                                                         <div class="block-title__description">Ознакомьтесь с нашей действующей системой скидок</div>
                                                                         <br>
                                                                     </div>
