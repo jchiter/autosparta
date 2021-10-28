@@ -10,9 +10,12 @@
     <link type="text/css" rel="stylesheet" href="styles/css/woocommerce-smallscreen.css?v=<?=time()?>" media="only screen and (max-width: 768px)">
     <link type="text/css" rel="stylesheet" href="styles/fontawesome/css/all.css?v=<?=time()?>">
 
-    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" href="styles/images/favicon.ico" type="image/x-icon">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <meta name="description" content="Сайт о cтанции технического обслуживания в г. Пензе - АвтоСпарта">
+    <meta name="keywords" content="сто, пенза, автоспарта, ремонт подвески, ремонт двигателя">
 
     <title>АвтоСпарта - cтанция технического обслуживания в г. Пензе</title>
 
@@ -87,7 +90,7 @@
     </div>
 </nav>
 
-<div id="loader-wrapper" style="display: block;">
+<div id="loader-wrapper" style="display: none;">
     <div class="loader">
         <div class="line"></div>
         <div class="line"></div>
@@ -150,7 +153,7 @@
                         <button type="button" class="navbar-toggle" style="display: none;"><i class="icon icon-lines-menu"></i></button>
                     </div>
                     <div class="header-right-bottom">
-                        <div class="social-links" style="margin-right: 2em">
+                        <div class="social-links" style="margin-right: 3em">
                             <ul>
                                 <li><a class="vk" target="_blank" href="https://vk.com/stoavtosparta"><i class="fab fa-vk"></i></a></li>
                                 <li><a class="" target="_blank" href="https://www.instagram.com/sto_autosparta_penza"><i class="fab fa-instagram"></i></a></li>
